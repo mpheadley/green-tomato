@@ -316,3 +316,17 @@ The Next.js + MDX + Tailwind backbone stays. The visible UI is a 1998 cosplay; t
 - `<BrokenImage>` — one per page, deliberately
 - `<Guestbook>` — replaces Comments
 - `<DateStamp>` — "Last Updated: April 24, 2003"
+
+---
+
+## Next Steps
+
+When work resumes (no urgency — see **Status**):
+
+1. **Apply the rename in code.** Update `src/lib/site-config.ts` — currently still "The Calhoun Dispatch." Sweep name, tagline, URL, author, and any layout metadata.
+2. **Re-byline existing content.** The Raptor Run 2026 MDX (`content/articles/raptor-run-2026.mdx`) still signs off as "The Calhoun Dispatch." Update byline and sign-off to The Green Tomato voice.
+3. **First-pass 1998 treatment.** Build the visible cosplay on a feature branch first — tiled background, period-correct `Nav` and `Footer`, plus the new components in priority order: `<Marquee>`, `<AdSlot>` (with stub inventory), `<HitCounter>`, `<BrokenImage>`, `<DateStamp>`. Land it before deleting anything in the **Cuts** list.
+4. **Stub the ad inventory.** Five spam ads + three recurring local ads is enough to feel populated. AI-generate the bad images on purpose (seven fingers is the goal, not the bug).
+5. **Cut the SL-leftover components** once the new look is verified end-to-end. See **Build Notes — Cuts**.
+
+The first headline test from **Status** still applies: don't ship anything until five headlines make Matt actually laugh out loud. Currently sitting at three confirmed.
