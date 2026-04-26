@@ -459,3 +459,38 @@ The rule: the incident is the *reason* for the comedy without ever being the *su
 - Don't deploy from networks that geolocate to Matt's known locations (low priority unless someone's actively investigating)
 
 **Verdict:** Better to be a sharp Calhoun-only voice than a diluted Alabama voice. The hyperlocal frame *is* the brand. Don't trade specificity for cover — the cover doesn't actually work, and you lose the engine.
+
+---
+
+## Cheaha Challenge — Locked Angles
+
+The strongest sub-frames for the May 16 Gran Fondo coverage. Use multiple in a single piece.
+
+### Tier 1 (combined → primary article)
+1. **Road maintenance gap.** $300+ out-of-state cyclists on UCI-qualifier roads through Heflin / Delta — counties that haven't repaved in decades. Cyclist route is the most-maintained surface in the county that day.
+2. **Hospital closure backdrop.** Course threads through three counties with pending or recent hospital closures. RMC sale to Orlando Health (real April 2026) is the regional context. Cyclists pass through medical-desert geography.
+
+These two combine into the strongest piece because they share a common spine: **NE Alabama can find money for cycling infrastructure when it's also UCI-qualifier branding, but cannot find it for hospitals or roads serving the residents.** That's the real, defensible critique. Buried truth + institutional irony + named real news (RMC sale).
+
+### Tier 2 — also sharp, save for follow-ups
+- **PCB / cancer fundraiser collision.** Sunny King Criterium raises money for cancer research in a county whose elevated cancer rates trace partly to documented Monsanto PCB contamination.
+- **Carbon footprint.** 600 cars driving in to ride bikes for the environment. GU packets. Single-use water bottles at aid stations. The contradiction is gentle but real.
+- **Talladega National Forest naming.** Forest is named for the Creek town the U.S. Army destroyed in 1813. Cyclists ride through the forest; Creek history is not in the route description.
+
+### Tier 3 — character / atmospheric
+- **Out-of-state cyclist asking "Is this it?"** at Cheaha summit (2,407 ft).
+- **Climb names** ("OH SHIFT!" "Horseblock") treated as official tourism brand.
+- **Sheriff Tubb on traffic** — *"He's aware of it."*
+- **Mayor Henley** — Cheaha Challenge as 47th time Anniston has been "put on the map."
+- **Brenda Cofield** at Saks Walmart watching Lycra cross the parking lot.
+- **Volunteer aid station awkwardness** — local church group hands water to cyclists they don't know.
+
+---
+
+## Called Coffee — Hard Rule
+
+**Do not satirize Called Coffee directly.** Jerrod Snyder is on the active SL profile pipeline; the relationship is warm and the HW prospect is real. Direct satire of Called Coffee — even affectionate — risks both before either is established.
+
+**After Jerrod's SL profile publishes,** Called Coffee can be referenced *with affection* the way local papers reference local landmarks (Big Sam the Balloon Man, the Sinclair Social, etc.). That's not satire — that's world-building via real beloved details.
+
+**Genre coffee satire is fine** without naming any specific shop. Examples: pour-over / iced confusion, single-origin Ethiopian ordered like a latte, regional barista championship dominated by Birmingham finalists. These ride the third-wave-coffee-in-Alabama category without targeting Jerrod.
