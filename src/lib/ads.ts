@@ -3,19 +3,22 @@ export type Ad = {
   headline: string;
   body?: string;
   cta?: string;
+  image?: string;
   variant: "spam-pink" | "spam-yellow" | "spam-cyan" | "spam-lime" | "local-bert" | "local-tubb" | "local-edc" | "local-bridge" | "local-vape" | "local-hightower" | "local-funeral" | "local-ammo" | "broken";
 };
 
 export const adInventory: Ad[] = [
   // ── Spam (the texture) ──
   { id: "weird-trick", headline: "Doctors Don't Want You to Know This 1 Weird Trick", body: "Local Anniston mom discovers what hospitals refuse to share!", cta: "CLICK HERE!!!", variant: "spam-pink" },
-  { id: "47-pounds", headline: "She Lost 47 Pounds With This One Vegetable", body: "Calhoun mom shocks doctors. The vegetable will surprise you.", cta: "Read More »", variant: "spam-yellow" },
-  { id: "throw-pillow", headline: "Top Cardiologist: Throw Out Your Pillow Tonight", body: "He says it's the #1 reason your heart is failing.", cta: "Watch Free Video", variant: "spam-cyan" },
+  { id: "47-pounds", headline: "She Lost 47 Pounds With This One Vegetable", body: "Calhoun mom shocks doctors. The vegetable will surprise you.", cta: "Read More »", image: "/images/ads/47-pounds.webp", variant: "spam-yellow" },
+  { id: "throw-pillow", headline: "Top Cardiologist: Throw Out Your Pillow Tonight", body: "He says it's the #1 reason your heart is failing.", cta: "Watch Free Video", image: "/images/ads/pillow.webp", variant: "spam-cyan" },
+  { id: "sciatica", headline: "Doctors Stunned: 73-Year-Old Reverses Sciatica Pain Overnight", body: "Anniston grandfather discovers strange technique using only kitchen items.", cta: "See How »", image: "/images/ads/sciatica.webp", variant: "spam-lime" },
   { id: "diabetes", headline: "Diabetes Breakthrough Has Big Pharma Furious", body: "This common kitchen item is a 'natural Ozempic'", cta: "See Why", variant: "spam-lime" },
-  { id: "ai-stocks", headline: "AI Says These 3 Stocks Will Make You Rich by Friday", body: "Anniston man retires at 41 using this trick", cta: "FREE PICKS", variant: "spam-pink" },
+  { id: "ai-stocks", headline: "AI Says These 3 Stocks Will Make You Rich by Friday", body: "Anniston man retires at 41 using this trick", cta: "FREE PICKS", image: "/images/ads/stocks.webp", variant: "spam-pink" },
   { id: "cable", headline: "This $19 Gadget Is Replacing Cable in Anniston", body: "Spectrum doesn't want you to see this", cta: "Order Now", variant: "spam-cyan" },
+  { id: "robin", headline: "Why Everyone Wants This Adorable Metal Robin (Sells Out Daily)", body: "Anniston grandmothers can't stop ordering it", cta: "Buy Now »", image: "/images/ads/robin.webp", variant: "spam-pink" },
   // ── Calhoun-twisted spam ──
-  { id: "goat", headline: "Anniston Mom Loses 47 Pounds With This Goat", body: "Pictured: the goat. Doctors are speechless.", cta: "CLICK HERE!!!", variant: "spam-yellow" },
+  { id: "goat", headline: "Anniston Mom Loses 47 Pounds With This Goat", body: "Pictured: the goat. Doctors are speechless.", cta: "CLICK HERE!!!", image: "/images/ads/goat.webp", variant: "spam-yellow" },
   { id: "jsu-trick", headline: "JSU Researcher Discovers Trick Big Education Hates", body: "This 4-second method has students refusing to enroll", cta: "See the Trick", variant: "spam-lime" },
   { id: "cheaha-method", headline: "Cheaha Hiker Discovers Strange New Method", body: "He hasn't paid a power bill in 9 months. You won't believe how.", cta: "Continue »", variant: "spam-pink" },
   { id: "vegetable", headline: "Local Man Sheds Belly Fat By Avoiding This One Calhoun County Vegetable", body: "It's already in your refrigerator", cta: "Find Out More", variant: "spam-cyan" },

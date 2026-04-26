@@ -480,6 +480,32 @@ a:active { color: var(--gt-active); }
   letter-spacing: 0.1em;
   color: var(--gt-text);
 }
+.ad-with-image {
+  text-align: left;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  grid-template-areas:
+    "eyebrow eyebrow"
+    "image text";
+  gap: 8px;
+  align-items: start;
+}
+.ad-with-image .ad-eyebrow { grid-area: eyebrow; text-align: center; }
+.ad-with-image .ad-image {
+  grid-area: image;
+  display: block;
+  width: 110px;
+  height: 110px;
+  object-fit: cover;
+  border: 2px ridge var(--gt-navy);
+}
+.ad-with-image .ad-text { grid-area: text; }
+.ad-with-image .ad-headline { font-size: 0.95rem; line-height: 1.15; margin-bottom: 4px; }
+.ad-with-image .ad-body { font-size: 0.8rem; }
+.ad-with-image .ad-cta { font-size: 0.78rem; text-align: left; }
+@media (max-width: 480px) {
+  .ad-with-image .ad-image { width: 80px; height: 80px; }
+}
 .ad-headline {
   font-family: Impact, "Arial Black", sans-serif;
   font-size: 1.1rem;

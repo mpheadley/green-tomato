@@ -10,15 +10,20 @@ function AdCard({ ad }: { ad: Ad }) {
     );
   }
   return (
-    <div className={`ad ad-${ad.variant}`} role="complementary" aria-label="Advertisement">
+    <div className={`ad ad-${ad.variant} ${ad.image ? "ad-with-image" : ""}`} role="complementary" aria-label="Advertisement">
       <p className="ad-eyebrow">★ ADVERTISEMENT ★</p>
-      <p className="ad-headline">{ad.headline}</p>
-      {ad.body && <p className="ad-body">{ad.body}</p>}
-      {ad.cta && (
-        <p className="ad-cta">
-          <span className="ad-cta-arrow">»</span> {ad.cta} <span className="ad-cta-arrow">«</span>
-        </p>
+      {ad.image && (
+        <img src={ad.image} alt="" width={140} height={140} loading="lazy" className="ad-image" aria-hidden="true" />
       )}
+      <div className="ad-text">
+        <p className="ad-headline">{ad.headline}</p>
+        {ad.body && <p className="ad-body">{ad.body}</p>}
+        {ad.cta && (
+          <p className="ad-cta">
+            <span className="ad-cta-arrow">»</span> {ad.cta} <span className="ad-cta-arrow">«</span>
+          </p>
+        )}
+      </div>
     </div>
   );
 }
