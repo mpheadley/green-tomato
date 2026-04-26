@@ -26,6 +26,25 @@ Dale is not in on the joke. That's the whole thing.
 
 ---
 
+## The Cast
+
+Dale anchors the masthead, but the Dispatch is a **world** — Springfield, not just Kent Brockman. Each recurring character carries a different comic register. Use them rotationally; let the reader build equity in them so "Mayor Henley announced today" lands before the verb.
+
+- **Dale Brewer** — Bureau Chief. Earnest gravity. The straight man. Files everything as the Pulitzer story he never won.
+- **Mayor Lyle Henley** *(Oxford)* — Ribbon-cutter laureate. Every Dollar General is a milestone. Speaks exclusively in groundbreaking-ceremony cadence.
+- **Commissioner Buford Latham** — Forty years in office. Folksy non-sequiturs. Has feelings about the courthouse generator.
+- **Pastor Brad Ellison** — Megachurch (The Bridge at Oxford). Coffee bar, fog machine, sermon series with names like *Untethered* and *Recalibrate*.
+- **Coach Reggie Pickens** *(Piedmont High football)* — Local god. Asked about the offensive line, discusses Christ for eleven minutes. Won't name a starting QB.
+- **Wendell Moss, Calhoun County EDC Director** — Every SEEDS grant is a moon landing. The county has been "investment-ready" since 1987.
+- **Brenda Cofield** — Dale's go-to "Calhoun resident reached for comment." Always at the Saks Walmart. Has heard things.
+- **Mrs. Caroline Hearst-Vance** — Old-Quintard-Avenue widow. Knows everyone's business going back four generations. Does not recognize the Oxford mayor.
+- **Sheriff Earl Tubb** — Terse press conferences. *"We're aware of it."* Refuses follow-ups. Has not blinked since 2009.
+- **Dr. Phillip Edmondson, JSU Department of Communications** — Dale's "expert source." Wrong with full academic confidence.
+- **Trent Wickliffe, The Anniston Star** — Dale's nemesis. Has a Substack. Wears a vest.
+- **Wendell Hightower** — Perpetual public-comment guy at commission meetings. Has a theory about the water.
+
+---
+
 ## The Format
 
 Short-form video is the natural home:
@@ -49,6 +68,45 @@ From reading local coverage and SL research:
 - **The Facebook comment section** — the same 12 people, every story, every time. Dale interviews them as experts.
 - **Dollar General as economic development** — *"Third Dollar General Opens on Same Block as Two Dollar Generals, Bringing 12 Jobs to Oxford Economy."*
 - **The perpetual downtown revitalization** — Anniston has been "on the verge of a renaissance" since approximately 1987.
+
+---
+
+## Institutional Targets
+
+Best silly-lane premises follow the **raptor-run formula**: real institution + one of its actual specific assets, weaponized. Reader recognizes the place; the absurd is one degree off true. Three concentric rings, calibrated by Dale's geographic believability.
+
+### Ring 1 — Calhoun core (Dale's actual beat)
+- **Anniston Museum of Natural History** — raptor rehab program *(see: Raptor Run 2026)*
+- **Berman Museum** — actually owns Hitler's silver tea set, Napoleon's pistol, Jeff Davis's traveling case
+- **Anniston Army Depot** — chemical weapons incinerator history
+- **Cheaha State Park** — Alabama's highest point at 2,407 ft
+- **Quintard Mall** — dying-mall energy
+- **JSU** — Cocky the Gamecock, Marching Southerners, Stadium Drive
+- **RMC Anniston** — small-hospital ER comedy
+- **Hobson City** — oldest Black-incorporated town in Alabama *(handle straight, not silly)*
+
+### Ring 2 — Drive-time NE Alabama (Dale dispatched out of his depth)
+- **Talladega Superspeedway** — the Talladega Curse, infield RV culture
+- **Noccalula Falls** *(Gadsden)* — the legend, the ghost tours, the resident goats
+- **DeSoto / Sequoyah Caverns** — laser shows in caves
+- **Coldwater Mountain bike trails**
+- **Mentone** — Ren-faire energy, summer camps
+- **Fort Payne** — hometown of Alabama (the band)
+
+### Ring 3 — Wider Alabama / SE region (the rare road trip — Dale's parochial frame becomes the joke)
+- **Vulcan statue** *(Birmingham)* — giant naked iron man mooning Homewood
+- **U.S. Space & Rocket Center** *(Huntsville)* — Saturn V, Space Camp
+- **UAB hospital** — robotic surgery, transplants
+- **Helen, GA** — fake Bavarian village
+- **Rock City / See Rock City barns**
+- **Gatlinburg / Pigeon Forge** — Ripley's-everything
+- **Tail of the Dragon** — 318 curves
+
+### Off-limits for the silly lane
+- **Selma, Montgomery civil rights sites** — wrong register
+- **Sand Mountain churches** (snake handling) — real faith, real people
+- **Anything tornado-related** — too recent, too real
+- **Auburn / Alabama football** — fanbases are the comedy, not the schools themselves
 
 ---
 
@@ -108,10 +166,27 @@ First test: can you write five headlines that make you actually laugh out loud? 
 
 ## First Five Headlines (Seed List)
 
-*(To be filled in — Matt writes these, not Claude.)*
+*Working list. The first three came out of a brainstorm Matt liked enough to keep.*
 
-1.
-2.
-3.
+1. *Quintard Mall Welcomes Eleventh Vape Shop, Cementing Status as Region's Premier Vape Destination*
+2. *JSU Marching Southerners Asked to Tone It Down for Fifth Consecutive Funeral*
+3. *RMC Waiting Room Enters Its Fourteenth Hour, Forms Its Own Government*
 4.
 5.
+
+---
+
+## Second Seed List — Silly Lane
+
+*Raptor-run formula: real institution + actual specific asset + the absurd is one degree off true + institutional response in HR/press-release language. The bulk of the publication should live here — cheaper to write, safer, more repeatable.*
+
+1. *Berman Museum Charity Gala Concludes With Several Artifacts "Currently Unaccounted For"*
+2. *Cheaha Summit Claims Third Hiker This Year; Park Cites "Increased Foot Traffic" as Sign of Success*
+3. *Anniston Army Depot Family Fun Day Postponed Pending Wind Direction*
+4. *Anniston Museum's "Large One" Reported Missing From Enclosure; Visitors Asked to "Use Best Judgment"*
+5. *Talladega Superspeedway Infield RV Achieves De Facto Sovereign Nation Status*
+6. *Vulcan Statue Continues to Moon Homewood; Birmingham Council Adopts Resolution Calling It "Heritage"*
+7. *Noccalula Falls Resident Goat Achieves Plurality on Tripadvisor; Refuses to Comment*
+8. *DeSoto Caverns Laser Show Strikes Stalactite; Something Has Awakened*
+9. *Helen, GA Tour Returns Full of Calhoun Residents Convinced They Have Been to Germany*
+10. *Coldwater Mountain Trail Association Reports Record Year, Despite or Because of Cyclist Disappearances*
