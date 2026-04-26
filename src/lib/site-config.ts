@@ -1,13 +1,20 @@
 export const siteConfig = {
-  name: "The Calhoun Dispatch",
-  tagline: "Calhoun County's Most Trusted News Source",
+  name: "The Green Tomato",
+  tagline: "Calhoun County's Most Trusted News Source Since Recently",
   description:
-    "Breaking news, developing stories, and in-depth coverage of Calhoun County, Alabama. Serving the region since we started.",
-  url: "https://calhouncountydispatch.com",
+    "The Green Tomato is the vegetable of record for Calhoun County, Alabama. Breaking news, developing stories, and community coverage you can trust.",
+  url: "https://thegreentomato.news",
   author: "Dale Brewer, Bureau Chief",
+  webmaster: "dale@thegreentomato.news",
+  established: "Recently",
+  lastUpdated: "April 24, 2003",
+  hitCount: 4217330,
   nav: [
+    { label: "Home", href: "/" },
     { label: "News", href: "/articles" },
-    { label: "Breaking", href: "/articles?tag=breaking" },
-    { label: "About", href: "/about" },
+    { label: "Sports", href: "/articles?tag=sports" },
+    { label: "Obits", href: "/articles?tag=obits" },
+    { label: "Classifieds", href: "/articles?tag=classifieds" },
+    { label: "Guestbook", href: "/guestbook" },
   ],
 };

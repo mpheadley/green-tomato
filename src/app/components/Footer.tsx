@@ -1,50 +1,60 @@
 import { Link } from "next-view-transitions";
 import { siteConfig } from "@/lib/site-config";
+import HitCounter from "./HitCounter";
+import DateStamp from "./DateStamp";
+
+const webring = [
+  { label: "Calhoun Co. Probate Office", href: "#" },
+  { label: "Oxford Lions Club Online", href: "#" },
+  { label: "Anniston Star Memorial", href: "#" },
+  { label: "Friends of the Mummy", href: "#" },
+  { label: "JSU Geology Department", href: "#" },
+];
 
 export default function Footer() {
   return (
-    <footer className="bg-cd-navy border-t-4 border-cd-red text-white">
-      <div className="max-w-6xl mx-auto px-4 py-10">
-        <div className="flex flex-col md:flex-row items-start justify-between gap-8">
-          <div>
-            <p
-              className="font-black uppercase text-xl tracking-tight"
-              style={{ fontFamily: "var(--font-display)" }}
-            >
-              The Calhoun Dispatch
-            </p>
-            <p className="text-white/50 text-xs mt-1">{siteConfig.tagline}</p>
-            <p className="text-white/40 text-xs mt-3 max-w-xs">
-              Dale Brewer, Bureau Chief<br />
-              Calhoun County, Alabama
-            </p>
-          </div>
+    <footer className="gt-footer">
+      <div className="gt-webring">
+        <strong>★ THE NORTHEAST ALABAMA WEBRING ★</strong>
+        [ <a href="#">« Prev</a> ]
+        {webring.map((s, i) => (
+          <span key={i}>
+            {" | "}
+            <a href={s.href}>{s.label}</a>
+          </span>
+        ))}
+        {" | "}[ <a href="#">Next »</a> ]
+      </div>
 
-          <nav className="flex flex-col gap-2">
-            <p className="text-[10px] uppercase tracking-widest text-white/40 mb-1 font-bold">Sections</p>
-            {siteConfig.nav.map((item) => (
-              <Link
-                key={item.href}
-                href={item.href}
-                className="text-sm text-white/70 hover:text-white transition-colors"
-              >
-                {item.label}
-              </Link>
-            ))}
-          </nav>
-        </div>
-
-        <hr className="border-white/10 my-8" />
-
-        <div className="flex flex-col sm:flex-row items-center justify-between gap-3 text-xs text-white/30">
-          <p>
-            &copy; {new Date().getFullYear()} The Calhoun Dispatch. All rights reserved. All incidents considered developing.
+      <div className="gt-footer-grid">
+        <div>
+          <p style={{ margin: "0 0 6px", fontWeight: "bold" }}>The Green Tomato</p>
+          <p style={{ margin: "0 0 4px", fontSize: "0.78rem" }}>
+            Established {siteConfig.established}.
+            <br />
+            Editorial: <a href={`mailto:${siteConfig.webmaster}`}>{siteConfig.webmaster}</a>
+            <br />
+            Sign My <Link href="/guestbook">Guestbook!</Link>
           </p>
-          <Link href="/privacy" className="hover:text-white/60 transition-colors">
-            Privacy Policy
-          </Link>
+          <DateStamp />
+        </div>
+        <div style={{ textAlign: "center" }}>
+          <HitCounter />
+          <p style={{ margin: "8px 0 0", fontSize: "0.72rem" }}>
+            <span className="broken-image" aria-hidden="true" />
+            <br />
+            (image: gt_logo.gif)
+          </p>
         </div>
       </div>
+
+      <hr className="gt-rule" style={{ borderTopColor: "#fff", opacity: 0.5 }} />
+      <p style={{ textAlign: "center", margin: 0, fontSize: "0.74rem" }}>
+        &copy; {new Date().getFullYear()} The Green Tomato. All rights reserved.
+        All incidents considered developing.
+        {" · "}
+        <Link href="/privacy">Privacy</Link>
+      </p>
     </footer>
   );
 }
