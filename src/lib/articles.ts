@@ -12,6 +12,7 @@ export interface ArticleFrontmatter {
   tags: string[];
   byline?: string;
   published: boolean;
+  featured?: boolean;
   breaking?: boolean;
   developing?: boolean;
   heroImage?: string;
@@ -60,4 +61,11 @@ export function getAllArticles(): Article[] {
 export function getAllTags(): string[] {
   const tags = new Set(getAllArticles().flatMap((a) => a.frontmatter.tags ?? []));
   return Array.from(tags).sort();
+}
+
+/** Returns the lead article (featured: true) or falls back to the most recent. */
+export function getLeadArticle(): Article | null {
+  const all = getAllArticles();
+  if (all.length === 0) return null;
+  return all.find((a) => a.frontmatter.featured) ?? all[0];
 }

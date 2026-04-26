@@ -434,6 +434,30 @@ a:active { color: var(--gt-active); }
   border: 2px solid var(--gt-navy);
 }
 
+/* ─── Story hero / thumb images ─── */
+.gt-story-hero {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  border: 4px ridge var(--gt-navy);
+  margin: 6px 0 8px;
+}
+.gt-story-thumb {
+  display: block;
+  width: 100%;
+  height: auto;
+  border: 3px ridge var(--gt-navy);
+  margin: 0 0 8px;
+}
+.gt-story-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 12px;
+}
+@media (max-width: 600px) {
+  .gt-story-grid { grid-template-columns: 1fr; }
+}
+
 /* ─── Ad Slots ─── */
 .ad-stack {
   display: flex;
