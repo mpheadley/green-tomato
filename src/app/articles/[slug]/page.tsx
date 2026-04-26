@@ -2,6 +2,11 @@ import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
 import { getAllArticles, getArticleBySlug } from "@/lib/articles";
 import { Link } from "next-view-transitions";
+import ArticleImage from "@/app/components/ArticleImage";
+
+const mdxComponents = {
+  ArticleImage,
+};
 
 export async function generateStaticParams() {
   return getAllArticles().map((a) => ({ slug: a.slug }));
@@ -68,7 +73,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
           className="prose-article"
           style={{ fontFamily: "var(--font-serif)" }}
         >
-          <MDXRemote source={article.content} />
+          <MDXRemote source={article.content} components={mdxComponents} />
         </article>
 
         {/* Footer nav */}

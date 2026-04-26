@@ -345,3 +345,41 @@ When work resumes (no urgency — see **Status**):
 5. **Cut the SL-leftover components** once the new look is verified end-to-end. See **Build Notes — Cuts**.
 
 The first headline test from **Status** still applies: don't ship anything until five headlines make Matt actually laugh out loud. Currently sitting at three confirmed.
+
+---
+
+## Story Ideas Bank
+
+### The Anniston Museum Mummy
+The museum has an actual Egyptian mummy on permanent display. Dale covers it with complete sincerity.
+
+**Headlines:**
+- "Anniston Museum Mummy Described as 'Stable' Following Annual Wellness Check"
+- "Museum Clarifies Mummy Has Not Moved; Declines to Elaborate"
+- "Mummy Exhibit Attendance Up 14%; Mummy Unavailable for Comment"
+- "Anniston Man Reports Making Eye Contact With Mummy; Museum Says This Is Normal"
+- "Mummy's Condition Unchanged for 3,000 Years, Which Museum Calls 'Encouraging'"
+- "Museum Asks Visitors to Stop Talking to the Mummy; Declines to Say Why"
+- "Annual Mummy Inspection Completed; Findings Sealed"
+
+**Article angles:**
+- Dale does a wellness check interview — museum PR person answers every question with "stable" and "no change"
+- A visitor complaint filed after the mummy "seemed different" — museum investigation finds no evidence of movement
+- The mummy is named in a grant application as a "community stakeholder"
+- Museum installs new lighting near mummy "for visitor experience" — three staff members request transfers the same week
+
+**Connection to raptor run:** The museum houses both the mummy AND live raptors. Dale covers both beats. The Anniston Museum of Natural History is the richest single institution on the beat.
+
+### The Raptor Run
+- Real event: Raptor Run 5K + Dino Dash 1K, held April 4 at the museum, through Lagarde Park
+- Course: Museum Drive → Longleaf Event Center → Berman Museum parking lot → former Anniston Star building → Lagarde Park → back to museum
+- "Dino Dash" is real — kids run in dinosaur costumes (Matt's kid was there)
+- The museum has a live raptor rehabilitation program
+- Published article: "3 Dead, 5K Continues" — already live
+
+### Dollar General / Country Club
+- Published article: "Dollar General Breaks Ground Adjacent to Anniston Country Club, Described as 'Complementary'" — already live
+
+### The Mummy + The Raptors (crossover)
+- "Museum Officials Confirm Mummy and Raptors Have Never Been in the Same Room; Offer No Further Context"
+- "Mummy Exhibit Relocated Following 'Routine Maintenance' to Raptor Wing; Staff Declines Questions"
