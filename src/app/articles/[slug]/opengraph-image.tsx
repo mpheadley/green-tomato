@@ -1,4 +1,6 @@
 import { ImageResponse } from "next/og";
+import fs from "node:fs";
+import path from "node:path";
 import { getArticleBySlug, getAllArticles } from "@/lib/articles";
 
 export const runtime = "nodejs";
@@ -17,6 +19,13 @@ export default async function OG({ params }: { params: Promise<{ slug: string }>
   const breaking = article?.frontmatter.breaking ?? false;
   const developing = article?.frontmatter.developing ?? false;
   const tags = article?.frontmatter.tags?.filter(t => t !== "breaking" && t !== "developing") ?? [];
+
+  const blackletter = fs.readFileSync(
+    path.join(process.cwd(), "public/fonts/UnifrakturMaguntia.ttf")
+  );
+  const sans = fs.readFileSync(
+    path.join(process.cwd(), "public/fonts/Inter.ttf")
+  );
 
   return new ImageResponse(
     (
@@ -54,12 +63,12 @@ export default async function OG({ params }: { params: Promise<{ slug: string }>
           >
             <div
               style={{
-                fontSize: 52,
-                fontWeight: 900,
-                letterSpacing: "0.02em",
+                fontFamily: "Blackletter",
+                fontSize: 60,
+                fontWeight: 400,
+                letterSpacing: "0.01em",
                 lineHeight: 1,
                 color: "#FFFF00",
-                textShadow: "3px 3px 0 #FF0000",
               }}
             >
               The Green Tomato
@@ -183,6 +192,12 @@ export default async function OG({ params }: { params: Promise<{ slug: string }>
         </div>
       </div>
     ),
-    { ...size }
+    {
+      ...size,
+      fonts: [
+        { name: "Inter", data: sans, style: "normal", weight: 400 },
+        { name: "Blackletter", data: blackletter, style: "normal", weight: 400 },
+      ],
+    }
   );
 }

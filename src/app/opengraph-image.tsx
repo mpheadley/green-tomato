@@ -1,11 +1,20 @@
 import { ImageResponse } from "next/og";
+import fs from "node:fs";
+import path from "node:path";
 import { siteConfig } from "@/lib/site-config";
 
-export const runtime = "edge";
+export const runtime = "nodejs";
 export const size = { width: 1200, height: 630 };
 export const contentType = "image/png";
 
 export default async function OG() {
+  const blackletter = fs.readFileSync(
+    path.join(process.cwd(), "public/fonts/UnifrakturMaguntia.ttf")
+  );
+  const sans = fs.readFileSync(
+    path.join(process.cwd(), "public/fonts/Inter.ttf")
+  );
+
   return new ImageResponse(
     (
       <div
@@ -44,12 +53,12 @@ export default async function OG() {
           >
             <div
               style={{
-                fontSize: 96,
-                fontWeight: 900,
-                letterSpacing: "0.02em",
+                fontFamily: "Blackletter",
+                fontSize: 110,
+                fontWeight: 400,
+                letterSpacing: "0.01em",
                 lineHeight: 1,
                 color: "#FFFF00",
-                textShadow: "none",
                 whiteSpace: "nowrap",
               }}
             >
@@ -133,6 +142,12 @@ export default async function OG() {
         </div>
       </div>
     ),
-    { ...size }
+    {
+      ...size,
+      fonts: [
+        { name: "Inter", data: sans, style: "normal", weight: 400 },
+        { name: "Blackletter", data: blackletter, style: "normal", weight: 400 },
+      ],
+    }
   );
 }

@@ -57,6 +57,17 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
 
       <hr className="gt-rule" />
 
+      <div style={{ textAlign: "center", margin: "16px 0 10px" }}>
+        <img
+          src="/images/brand/tomato.png"
+          alt=""
+          aria-hidden="true"
+          width={60}
+          height={60}
+          style={{ display: "inline-block", opacity: 0.8 }}
+        />
+      </div>
+
       <p style={{ textAlign: "center", margin: "10px 0" }}>
         <Link href="/articles">[ &laquo; Back to All News ]</Link>
       </p>

@@ -87,6 +87,21 @@ body {
   line-height: 1;
   margin: 0;
 }
+.gt-masthead-row {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: clamp(8px, 2vw, 18px);
+}
+.gt-masthead-mark {
+  height: clamp(32px, 6vw, 56px);
+  width: auto;
+  flex-shrink: 0;
+  filter: brightness(0) invert(1) sepia(1) saturate(20) hue-rotate(15deg);
+}
+@media (max-width: 480px) {
+  .gt-masthead-row { gap: 6px; }
+}
 .gt-masthead-tagline {
   font-family: "Comic Sans MS", "Chalkboard SE", cursive;
   font-size: 0.9rem;

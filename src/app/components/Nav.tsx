@@ -5,7 +5,25 @@ export default function Nav() {
   return (
     <>
       <div className="gt-masthead">
-        <h1 className="gt-masthead-title">The Green Tomato</h1>
+        <div className="gt-masthead-row">
+          <img
+            src="/images/brand/tomato.png"
+            alt=""
+            aria-hidden="true"
+            width={64}
+            height={64}
+            className="gt-masthead-mark"
+          />
+          <h1 className="gt-masthead-title">The Green Tomato</h1>
+          <img
+            src="/images/brand/tomato.png"
+            alt=""
+            aria-hidden="true"
+            width={64}
+            height={64}
+            className="gt-masthead-mark"
+          />
+        </div>
         <p className="gt-masthead-tagline">{siteConfig.tagline}</p>
         <p className="gt-masthead-edition">
           Vol. I, No. 1 · Calhoun County, Alabama · {new Date().toLocaleDateString("en-US", { weekday: "long", month: "long", day: "numeric", year: "numeric" })}
