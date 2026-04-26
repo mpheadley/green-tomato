@@ -508,28 +508,39 @@ This is a fun project, not a business. Don't add monetization that creates caden
 - **Total burn:** under $30/yr right now
 
 ### Phase 1 — First income trigger (5-6 strong articles, ~500 unique visitors)
-Two adds, both on-brand:
 
-1. **Satirical "Support Dale" page**
-   - Buy Me a Coffee link (`buymeacoffee.com/dalebrewer`) styled as a Patreon-era support page
-   - Reward tiers (presented as already-active):
-     - **$1/mo:** "Dale will continue working"
-     - **$5/mo:** "Hand-typed thank you postcard, signed *Yours in Coverage, Dale*"
-     - **$25/mo:** "Your name appears in the Webring (subject to availability)"
-     - **$100/mo:** "One-time mention in a future article as 'a concerned local resident'"
-   - Public patron list shows three names: a Calhoun County PO Box, "Anonymous," and "Anonymous (Same One)."
-   - Realistic income: **$10-50/mo** if 100 readers see it and 1% give
+**Decision (April 26):** Lead with merch. Demote the Support Dale page to satire-only. Reasoning: a real money button under a fake-newspaper site collapses Dale's universe; merch is in-character (a Raptor Run survivor tee *is* a Dale Brewer artifact); shirts are walking marketing in NE Alabama; per-transaction value is higher; Fourthwall is already set up via Matt's bipolar brand (zero new vendor friction).
 
-2. **Print-on-demand merch via Fourthwall** (same platform as Matt's bipolar brand — already set up, no new vendor)
-   - Initial 3-4 SKUs:
-     - "I Survived the Raptor Run" t-shirt
-     - "The Vegetable of Record" tote
-     - "Dale Brewer / Bureau Chief" mug
-     - "Investment-Ready Since 1987" Calhoun County EDC parody t-shirt
-   - Realistic income: **$50-200/mo** with regular release cadence
-   - Cost of entry: zero (POD, no inventory)
+#### 1. Merch via Fourthwall (the actual revenue engine)
+**Initial 3-SKU drop:**
 
-**Phase 1 ceiling:** $60-250/mo. Pays the domain, image gen, and a HeyGen subscription with margin to spare.
+- **"I Survived the Raptor Run" tee** — A-tier; ties to the signature article. Probably the lead seller.
+- **"The Vegetable of Record" tote** — brand-level, broader appeal, lower commitment for the buyer.
+- **"Dale Brewer / Bureau Chief" mug** — character merch, gift-able, low-cost-of-entry SKU.
+
+**Listing copy lives in:** `content/merch/` (separate folder so Fourthwall paste-in is easy).
+
+**Drop #2 candidates (release after watching what sells):**
+- "Investment-Ready Since 1987" Calhoun County EDC parody tee
+- "I Climbed Cheaha (Allegedly)" tee
+- "The Mummy Is Stable" tee
+- "Best Viewed in Netscape Navigator 4.0" tee (the website footer line as a shirt)
+
+**Realistic income:** $50-200/mo with regular release cadence. POD = zero inventory cost.
+
+#### 2. Satirical "Support Dale" page (no real button, no real money)
+The page is **a content piece, not a sales channel.** It exists. The reward tiers are listed. The "Become a Patron" button leads to a 404 styled to read:
+
+> *Thank you for your support. Dale will be in touch where applicable.*
+
+Why no real button:
+- Real money on a fake-newspaper site is *meta-weird* — collapses the bit
+- Forces an awkward question of who the money is going to (Matt? Dale? "Dale's coffee fund"?)
+- Better to keep the page as pure performance — the reward tiers and the patron list (three "Anonymous" entries) are the joke
+
+The page acts as content (pulls in readers who screenshot it / share it) without crossing the satire/income membrane.
+
+**Phase 1 ceiling:** $50-200/mo, all from merch. Pays the domain, image gen, and a HeyGen subscription with margin to spare.
 
 ### Phase 2 — Video gen (when Phase 1 income clears $50/mo for 2+ months)
 Don't pay for video tools out of pocket. Wait for the satire donation page + merch to clear the threshold. Then:
