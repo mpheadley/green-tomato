@@ -49,6 +49,8 @@ Dale is not in on the joke. That's the whole thing.
 
 ## The Cast
 
+*Bureau Chief name "Dale Brewer" is a Claude-suggested placeholder. **Lane 3 selected** — real-Alabama-coded with a hint of off; final name TBD. See **Open Questions** for shortlist. The role and voice are locked. Other character names are also working drafts.*
+
 Dale anchors the masthead, but The Green Tomato is a **world** — Springfield, not just Kent Brockman. Each recurring character carries a different comic register. Use them rotationally; let the reader build equity in them so "Mayor Henley announced today" lands before the verb.
 
 - **Dale Brewer** — Bureau Chief. Earnest gravity. The straight man. Files everything as the Pulitzer story he never won.
@@ -114,6 +116,27 @@ The visual joke is the front; the back stays Next.js 16 + MDX + RSC. The whole g
 
 ---
 
+## Writing Principles
+
+Three craft rules. They apply specifically to Dale's voice (the Tomato) — not to Matt-voice spoken or stand-up material, which runs on different muscles.
+
+### Satire vs. stand-up — different formats, different jobs
+
+- **Satire (the Tomato)** reports straight, in deadpan institutional voice. The reader knows it's fake; the joke is the gap between the bureaucratic register and the chaos being described.
+- **Stand-up (Matt-voice)** reports honestly, with the bewildered narrator carrying the weight. The audience knows it's true; the joke is the gap between the speaker's incredulity and the institution's calm.
+
+Same raw observations can fuel both, but the formats are not interchangeable. **The failure mode:** if reality has already escalated past plausible (the church *did* launch a third service after the survey; the city council *did* fistfight), satire loses force — the exaggeration move has nowhere to go and reads as straight reporting. In that case either (a) report it dead-straight in Dale's voice and let the realness do the work, or (b) leave it to stand-up where deadpan-bewildered is the engine.
+
+### One step past reality, never two
+
+The satire move is to push *one* logical step further than what happened. Real church survey → fictional consultant hire (one step, lands). Real church survey → consultant + riot + arena tour (three steps) tips into "trying too hard."
+
+### One or two specific details, not stacked
+
+A folding chair to the head is a perfect detail. Folding chair *plus* food fight *plus* burning pews *plus* casualties tips past the sweet spot. Pick the most specific, most evocative one or two and stop. Restraint is what makes it funny instead of cartoon. Trust the reader to fill in the rest.
+
+---
+
 ## The Rich Veins
 
 From reading local coverage and SL research:
@@ -125,6 +148,8 @@ From reading local coverage and SL research:
 - **The Facebook comment section** — the same 12 people, every story, every time. Dale interviews them as experts.
 - **Dollar General as economic development** — *"Third Dollar General Opens on Same Block as Two Dollar Generals, Bringing 12 Jobs to Oxford Economy."*
 - **The perpetual downtown revitalization** — Anniston has been "on the verge of a renaissance" since approximately 1987.
+- **Worship-music wars** — survey-the-congregation cycles, traditional vs. contemporary feuds, the *let's hire a worship consultant* reflex, three-service splits, hymn-vs-Hillsong-vs-trap arguments. The institutional response to an unsolvable human problem is always a second survey. Pastor Brad's beat. Matt's lived material from ministry — handle per **Writing Principles** (much of it is already absurd in real life and may belong in stand-up, not satire).
+- **Farmers market politics** — vendor disputes over booth placement, simmering produce-territory feuds, the inevitable city-council intervention, the gap between "buy local" cheerfulness and the actual vendor-vs-vendor knife fight. Especially fertile if Matt takes the director role — he becomes a quotable recurring source.
 
 ---
 
@@ -141,6 +166,8 @@ Best silly-lane premises follow the **raptor-run formula**: real institution + o
 - **JSU** — Cocky the Gamecock, Marching Southerners, Stadium Drive
 - **RMC Anniston** — small-hospital ER comedy
 - **Hobson City** — oldest Black-incorporated town in Alabama *(handle straight, not silly)*
+- **The Bridge at Oxford / area megachurches** — sermon series titles, worship-music feuds, building campaigns, "vision casting" weekends. Pastor Brad's institutional home.
+- **Calhoun County Farmers Market** — vendor turf wars, the "buy local" hymn vs. the actual booth politics, the new director (potentially Matt) as recurring quotable source
 
 ### Ring 2 — Drive-time NE Alabama (Dale dispatched out of his depth)
 - **Talladega Superspeedway** — the Talladega Curse, infield RV culture
@@ -247,6 +274,24 @@ The pseudonym will last maybe 6–12 months in a market this small. Plan for the
 
 ---
 
+## Adjacent Projects
+
+Tracked separately so the pseudonym posture stays clean.
+
+### Matt-voice spoken material
+
+Stand-up bits, farmers-market mic time (welcome announcements, dry-host one-liners), eventual short sets — all Matt's voice, not the Bureau Chief's. Same observations can fuel both, but the formats and identities are distinct. See **Writing Principles → Satire vs. Stand-up** for the craft side of the split.
+
+Boundary rules:
+- The Tomato byline never references Matt
+- Matt-voice work never references the Tomato as his
+- Material that's already too-real-for-satire (worship surveys that actually happened, city-council fistfights that actually happened) lives in this lane, not in Dale's
+- If Matt-voice work goes public, it stays attached to Matt — possibly through Southern Legends or a personal channel, never the Tomato
+
+The grief-processing dimension noted in **Status** runs through both, but resolves in different formats.
+
+---
+
 ## The Real Risk
 
 The Calhoun Journal relationship. Lee Kathryn Evancho reached out personally, wants to syndicate SL work. Her husband runs JLM Communications (built the CJ site). In a market this small, a satire outlet parodying local boosterism reads as mocking the Calhoun Journal specifically — whether intended or not.
@@ -264,6 +309,8 @@ Concept only. Personal project. Build it when it makes you laugh, not before.
 **No timeline. No business case required. This one's just for fun.**
 
 First test: can you write five headlines that make you actually laugh out loud? If yes, there's something here. If not, shelve it.
+
+**Underneath the fun:** this project is partly grief work — farm closure, ministry transitions, watching institutions fail their own people. The Bureau Chief's earnest gravity is the channel. The gap between his affect and the reality he's reporting *is* the joke and *is* the point. That's why register matters as much as the headlines themselves.
 
 ---
 
@@ -335,7 +382,14 @@ Pending Matt's call before any code work begins:
 1. **Confirm the rename.** Doc currently assumes *The Green Tomato* is final. If it's still a maybe, flag before code references downstream multiply.
 2. **Headlines 4 and 5.** First Seed List has three locked. Two more needed before the "five make me laugh" test from **Status** is satisfied.
 3. **Domain.** `thegreentomato.com`? `thegreentomato.news`? Something more Calhoun-specific (`calhoungreentomato.com`)? Affects the email-the-webmaster gag and overall brand frame.
-4. **Dale's last name.** "Dale Brewer" is a working name. Locking it lets him recur cleanly across articles, ads, the webmaster email, the byline, and (eventually) video.
+4. **Bureau Chief's name.** Placeholder "Dale Brewer" was a Claude suggestion. **Lane 3 selected** — real-Alabama-coded with a hint of off. Specific name still open. Shortlist for Matt to pick from (or replace):
+   - *Buford Tatum* — best Alabama-rural gravity; "Buford" alone signals he's been here forever
+   - *Hap Featheringill* — strongest balance of plausible + slightly off; "Hap" is a real Southern nickname
+   - *Beauregard "Bo" Crowder* — formal-Southern with folksy nickname; works dual-register (formal byline, "Bo" in interviews)
+   - *Earl Wadsworth* — pure 1970s local-anchor lineage; instantly grandfatherly
+   - *Lyle Pemberton*, *Tate Stovall*, *Mack Quarles*, *Skeet Hollingsworth* — alternates if none above land
+
+   Lock before code, byline, webmaster email, and ad-copy references multiply. Avoid surnames already in use in **The Cast** (Tubb, Henley, Hightower, Moss).
 5. **Pseudonym posture.** Aggressive — separate everything, no Matt connection — vs. casual, let it leak when it leaks. Current doc assumes aggressive for 6–12 months; revisit if priorities shift.
 6. **Pastor Brad's church name.** "The Bridge at Oxford" is plausible but generic. Worth swapping to something more specifically Calhoun if the bit is going to recur in ads + articles.
 7. **Real-or-fake source material in ads.** Doc says fake-only. If the Calhoun-twisted spam uses real photos of real landmarks (Cheaha, Noccalula goat, JSU), confirm — line between "public-domain location image" and "implies endorsement" is thin in a market this small.
