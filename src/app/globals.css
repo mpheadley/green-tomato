@@ -484,7 +484,11 @@ a:active { color: var(--gt-active); }
   text-align: center;
   font-family: "Times New Roman", Times, serif;
   position: relative;
+  display: block;
+  text-decoration: none;
+  cursor: pointer;
 }
+.ad:hover { text-decoration: none; }
 .ad-eyebrow {
   font-family: "Comic Sans MS", "Chalkboard SE", cursive;
   font-size: 0.65rem;

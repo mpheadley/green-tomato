@@ -1,16 +1,17 @@
 import { pickAds, type Ad } from "@/lib/ads";
 
 function AdCard({ ad }: { ad: Ad }) {
+  const href = `/ads/${ad.id}`;
   if (ad.variant === "broken") {
     return (
-      <div className="ad ad-broken" role="complementary" aria-label="Advertisement">
+      <a href={href} className="ad ad-broken" role="complementary" aria-label="Advertisement">
         <span className="broken-image" aria-hidden="true" />
         <p className="ad-broken-caption">(image: ad_banner_07.gif could not be loaded)</p>
-      </div>
+      </a>
     );
   }
   return (
-    <div className={`ad ad-${ad.variant} ${ad.image ? "ad-with-image" : ""}`} role="complementary" aria-label="Advertisement">
+    <a href={href} className={`ad ad-${ad.variant} ${ad.image ? "ad-with-image" : ""}`} role="complementary" aria-label="Advertisement">
       <p className="ad-eyebrow">★ ADVERTISEMENT ★</p>
       {ad.image && (
         <img src={ad.image} alt="" width={140} height={140} loading="lazy" className="ad-image" aria-hidden="true" />
@@ -24,7 +25,7 @@ function AdCard({ ad }: { ad: Ad }) {
           </p>
         )}
       </div>
-    </div>
+    </a>
   );
 }
 

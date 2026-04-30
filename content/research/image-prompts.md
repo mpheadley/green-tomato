@@ -110,3 +110,29 @@ Anniston and Calhoun County are racially diverse. The default AI output skews wh
 
 **Prompt (draft):**
 > Wire service photograph. Interior of a formal concert hall. A professional wrestling ring on the stage is decorated for Christmas — tinsel on the corner posts, a string of lights along the ropes. A man dressed as Santa Claus stands in the center of the ring, arms raised. Rows of empty velvet seats. Institutional lighting. Alabama civic venue. No audience visible. Photojournalistic grain, slightly blown-out highlights. No text.
+
+---
+
+## GT 404 Splatter Tomato — APPROVED, NOT YET GENERATED
+
+**Used by:** `src/app/not-found.tsx` (replaces the rotated `pixel-tomato.webp` placeholder currently in place) and as the 404-scoped favicon
+**Model:** GPT Image 1.5 via Replicate (`--model gpt`)
+**Reference image:** `public/images/site/pixel-tomato.webp` — must read as the same character, gone bad
+
+**Two assets to generate:**
+1. **Hero splat** — `public/images/site/pixel-tomato-splat.webp`, 512×512, transparent background, 1:1
+2. **Favicon splat** — `public/images/site/pixel-tomato-splat-favicon.png`, 32×32 (also export 16×16 if the tool allows). Transparent background. Crop tighter than the hero — splatter trimmed to fit the favicon canvas.
+
+**Prompt (locked — splat variant, not rot):**
+> Pixel art icon, 64×64 retro 1990s web sprite scaled up, transparent background. A green unripe tomato — same chunky pixel silhouette, palette, and cartoon stem-leaf as the Green Tomato newspaper mascot — but burst open and splattered. The tomato is cracked down one side with bright green-yellow pulp and seeds spilling out, a few seeds flung outward in pixelated arcs. Small drips and splat blobs radiate around it on the transparent background, like it just hit the ground. Stem still attached, slightly askew. Hard chunky pixels, no anti-aliasing, limited palette of greens (deep green, mid green, lime, pale yellow-green) plus a couple of off-white seed pixels. No text. No drop shadow. Read as a corrupted version of the original mascot, not a different tomato.
+
+**Why this prompt deviates from the wire-service template:**
+- This is a site asset / logo, sibling to `pixel-tomato.webp` — not an article photo. Photojournalistic register would be wrong.
+- "Same chunky pixel silhouette… as the mascot" forces continuity so the 404 reads as *the GT logo, ruined* — that's the joke
+- "Green-yellow pulp" keeps it on-brand (a green tomato bursting reveals paler flesh, not red — leaning red would break the unripe-tomato premise)
+- "No drop shadow" matches existing pixel-tomato
+
+**Wire-in (post-generation, one commit):**
+1. Swap `src/app/not-found.tsx` `<img src>` from `pixel-tomato.webp` → `pixel-tomato-splat.webp`, drop the `transform: rotate(-8deg)` (splatter has its own asymmetry)
+2. Add to `not-found.tsx` metadata: `icons: { icon: '/images/site/pixel-tomato-splat-favicon.png' }` so the browser tab shows the splat tomato on 404 pages only
+

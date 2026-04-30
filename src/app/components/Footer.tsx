@@ -4,11 +4,11 @@ import HitCounter from "./HitCounter";
 import DateStamp from "./DateStamp";
 
 const webring = [
-  { label: "Calhoun Co. Probate Office", href: "#" },
-  { label: "Oxford Lions Club Online", href: "#" },
-  { label: "Anniston Star Memorial", href: "#" },
-  { label: "Friends of the Mummy", href: "#" },
-  { label: "JSU Geology Department", href: "#" },
+  { label: "Calhoun Co. Probate Office", href: "/webring/calhoun-probate" },
+  { label: "Oxford Lions Club Online", href: "/webring/oxford-lions" },
+  { label: "Anniston Star Memorial", href: "/webring/anniston-star-memorial" },
+  { label: "Friends of the Mummy", href: "/webring/friends-of-the-mummy" },
+  { label: "JSU Geology Department", href: "/webring/jsu-geology" },
 ];
 
 export default function Footer() {
@@ -16,14 +16,14 @@ export default function Footer() {
     <footer className="gt-footer">
       <div className="gt-webring">
         <strong>★ THE NORTHEAST ALABAMA WEBRING ★</strong>
-        [ <a href="#">« Prev</a> ]
+        [ <a href="/webring/prev">« Prev</a> ]
         {webring.map((s, i) => (
           <span key={i}>
             {" | "}
             <a href={s.href}>{s.label}</a>
           </span>
         ))}
-        {" | "}[ <a href="#">Next »</a> ]
+        {" | "}[ <a href="/webring/next">Next »</a> ]
       </div>
 
       <div className="gt-footer-grid">
