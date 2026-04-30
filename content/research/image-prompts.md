@@ -20,11 +20,19 @@ Every GT image should read as **wire service / small-town newspaper photography,
 - Sepia or vintage filters — reads as intentional nostalgia, not earnest local news
 - Photographers visible in frame — breaks the wire service POV
 - Posed subjects — action mid-moment, slightly off-center framing
+- All-white crowds or casts — Anniston is a majority-Black city (~55% Black, ~40% white). Defaulting to white subjects misrepresents the place. Fix it in the prompt, not after.
+
+**Diversity — build it into every prompt:**
+Anniston and Calhoun County are racially diverse. The default AI output skews white; correct for it explicitly. For any scene with people:
+- Named officials, spokespeople, bystanders: specify race when it matters for accuracy or variety. Don't let the model decide.
+- Crowds: specify "mixed crowd" or "diverse group of Calhoun County residents" — do not leave it unspecified.
+- One person: consider "a Black woman in a blazer," "a middle-aged Black man," "an older white man," etc. — whatever fits the scene and reflects where this actually takes place.
+- Never over-specify to the point of tokenism. The goal is accuracy, not a checklist. If a scene has one person, pick what feels true to the story.
 
 **Model: always GPT** (`--model gpt`) for all GT article images. No exceptions. GPT handles multi-person scenes, institutional settings, and period-correct news photography better than Imagen for this project.
 
 **Base prompt template:**
-> [Wire service / Small-town newspaper] photograph. [Scene description — specific, one absurd element max]. [Alabama/Calhoun County location detail if applicable]. Photojournalistic grain, slightly blown-out highlights. No text.
+> [Wire service / Small-town newspaper] photograph. [Scene description — specific, one absurd element max]. [Race/appearance of key subjects — don't leave unspecified]. [Alabama/Calhoun County location detail if applicable]. Photojournalistic grain, slightly blown-out highlights. No text.
 
 ---
 
