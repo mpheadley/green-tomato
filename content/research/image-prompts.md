@@ -64,3 +64,36 @@ Every GT image should read as **wire service / small-town newspaper photography,
 
 **Prompt:**
 > Small-town newspaper photograph. Exterior ribbon cutting ceremony in front of a gentleman's club entrance. A man in a suit holds oversized scissors over a red ribbon. Several officials in suits stand flanking him, smiling. Behind them, the sign for 'The Velvet Magnolia' features a tasteful pink neon silhouette of a woman's figure. To the left, an Olive Garden restaurant. To the right, a small framing shop. Daylight, flat lighting, photojournalistic grain, slightly blown-out highlights. No text.
+
+---
+
+## Knox Concert Series Revival — CURRENT (April 30, 2026)
+
+**Article:** `content/articles/knox-concert-series-rebrand.mdx`
+**File:** `public/images/articles/knox-concert-series/hero.webp` *(not yet wired — move from merch/designs first)*
+**Source:** `merch/designs/20260430_131822_gpt_wire-service-photograph.-interior-of-a-f.webp`
+**Model:** GPT Image 1.5 via Replicate
+**Dimensions:** 1024x1024 (1:1) — crop to 3:2 before wiring if needed
+
+**Prompt:**
+> Wire service photograph. Interior of a formal concert hall with ornate ceiling and rows of empty velvet seats. A professional wrestling ring — corner posts, ropes, canvas mat — is fully assembled on the stage where an orchestra would normally perform. A podium with a microphone stands at the side of the stage, unoccupied. The juxtaposition is total. Alabama civic venue. Photojournalistic grain, slightly blown-out highlights. No text.
+
+---
+
+## Knox Option B — One Act, Full Gravity *(not yet generated)*
+
+**Article:** not yet written
+**Concept:** Press conference. A spokesperson in a blazer stands at a podium inside a formal venue. Behind them, a large printed banner or projected image promotes a professional wrestling card — two wrestlers mid-grapple, bright colors. The spokesperson's posture is grave and institutional. The room is half-empty. Photojournalistic grain.
+
+**Prompt (draft):**
+> Wire service photograph. Press conference inside a formal civic auditorium. A woman in a blazer stands at a podium. Behind her, a large vinyl banner shows two professional wrestlers in combat, brightly colored, mid-grapple. The room is formal — upholstered chairs, a draped table, institutional lighting. Several audience members seated, expression neutral. Alabama. Photojournalistic grain, slightly blown-out highlights. No text.
+
+---
+
+## Knox Option C — The Holiday Slot *(not yet generated)*
+
+**Article:** not yet written — publish December 2026
+**Concept:** A wrestling ring on a concert hall stage, but dressed for Christmas — tinsel on the corner posts, a Santa figure mid-action in the ring. Empty velvet seats. A marquee or banner in the background reads something seasonal. The absurdity is total, the framing is deadpan.
+
+**Prompt (draft):**
+> Wire service photograph. Interior of a formal concert hall. A professional wrestling ring on the stage is decorated for Christmas — tinsel on the corner posts, a string of lights along the ropes. A man dressed as Santa Claus stands in the center of the ring, arms raised. Rows of empty velvet seats. Institutional lighting. Alabama civic venue. No audience visible. Photojournalistic grain, slightly blown-out highlights. No text.
