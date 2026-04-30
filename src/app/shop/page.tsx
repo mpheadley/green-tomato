@@ -61,10 +61,9 @@ export default function ShopPage() {
       <div className="gt-section-header">★ GT Merchandise ★</div>
 
       <div className="shop-notice">
-        <strong>Official Green Tomato Merchandise</strong> — All items are
-        print-on-demand and ship within 5–7 business days. The Green Tomato is
-        not responsible for sizing decisions made in haste. No returns on items
-        worn to family gatherings where a scene occurred.
+        <strong>Official Green Tomato Merchandise — Coming Soon.</strong> The
+        store is currently being stocked. Check back shortly. The Green Tomato
+        is not responsible for the anticipation this page has generated.
       </div>
 
       <div className="shop-grid">
@@ -93,8 +92,9 @@ export default function ShopPage() {
                 target="_blank"
                 rel="noopener noreferrer"
                 className="shop-buy-btn"
+              style={{ opacity: 0.5, cursor: "default", pointerEvents: "none" }}
               >
-                ▶ Order from Fourthwall
+                ▶ Coming Soon
               </a>
             </div>
           </div>
