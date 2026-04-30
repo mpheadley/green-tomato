@@ -772,3 +772,21 @@ Optional adds, gated by audience size:
 - **Months 7-12:** If audience grows, video starts + merch matures, income $100-300/mo
 
 This isn't a business, but it could pay for itself plus a small monthly surplus if it finds a small but loyal audience. Anything beyond that is bonus.
+
+### Noble Street Festival Gelatin Wrestling — two-division article
+
+**Real Noble Street context:** 24th annual (2026), organized by Main Street Anniston + City of Anniston. Sunny King Criterium bike racing is the main event — runs multiple race categories throughout the day (youth → amateur → pro). 8,500–10,000 attendees, 50+ vendors, free admission, raises money for Relay for Life. 11am–7pm. KidZone with inflatables by City Hall.
+
+**Frame:** The festival's gelatin wrestling program mirrors the criterium structure — amateur division first, professional exhibition to close. Buford covers both with identical gravity.
+
+**Locked details (do not lose these):**
+- Amateur competitors introduced only by first names
+- One wearing a Cheaha Challenge t-shirt; other in a plain white t-shirt
+- Festival billed it as "a community athletic demonstration"
+- Gelatin was strawberry-flavored — confirmed by organizers as "the original planned flavor"
+- Amateur match ran 13 minutes, 3 over allotted, "due to what officials described as a slip-related delay"
+- A city councilman presented a trophy that is not described further
+- Professional division: two performers from a Gadsden-based promotion in full ring gear
+- Professional match ran 8 minutes, 43 seconds — decisive outcome, winner not named in the program
+
+**Assessment:** A-tier. The criterium ladder frame is load-bearing — it makes the gelatin wrestling feel like a legitimate festival institution. The amateur details are the piece. The pro match is the button.
