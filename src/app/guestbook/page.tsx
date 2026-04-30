@@ -55,6 +55,12 @@ const fakeEntries = [
         date: "December 25, 2004",
         message: "Merry Christmas to all the staff at the Green Tomato. And a happy new year.",
     },
+    {
+        name: "Dale",
+        location: "Anniston, AL",
+        date: "April 30, 2026",
+        message: "GT is the best free news, beats the pants off AL.bomb!!!",
+    },
 ]
 
 export default function GuestbookPage() {
