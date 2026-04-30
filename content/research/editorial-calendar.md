@@ -5,54 +5,109 @@
 
 ---
 
-## Published (recent)
-- Farmers Market Wrestling — 2026-04-26
-- Church Marquee Standoff (Highway 21) — 2026-04-26
-- Mummy Wellness Check — 2026-04-26 (hero image wired)
+## Currently Live (published: true)
+
+### Has hero image
+| Article | Date | Notes |
+|---|---|---|
+| Raptor Run 2026 | 2026-04-26 | hero wired ✓ |
+| Raptor Run Course Record | 2026-04-26 | companion to Raptor Run; no image needed |
+| Anniston Star Photographer Injured | 2026-04-26 | companion to Raptor Run; no image needed |
+| Farmers Market Wrestling | 2026-04-26 | hero wired ✓ |
+| Mummy Wellness Check | 2026-04-26 | hero wired ✓ |
+| Potluck Dispute | 2026-04-26 | hero wired ✓ |
+| Dollar General Country Club | 2026-04-26 | hero wired ✓ |
+| Potholes Reclassified | 2026-04-26 | hero wired ✓ |
+| Oxford Velvet Magnolia (Gentlemen's Club) | 2026-04-28 | hero wired ✓ |
+| Hot Dog Man Festival | 2026-04-28 | hero wired ✓ |
+| Thinking Man Quintard | 2026-04-28 | hero wired ✓ |
+| Oxford Middle School Singularity | 2026-04-29 | hero wired ✓ (science-fair) |
+| Noble Street Gelatin Wrestling | 2026-04-29 | hero wired ✓ |
+| Talladega Infield Dispatch | 2026-04-28 | hero wired ✓ |
+| Font Debate | 2026-04-30 | hero wired ✓ |
+| Knox Concert Series Revival | 2026-06-15 | hero wired ✓ |
+
+### Live, no hero (acceptable)
+| Article | Date | Notes |
+|---|---|---|
+| Anniston Civility Training | 2026-04-26 | evergreen; no image needed |
+| Earl T. Waggoner (obit) | 2026-04-22 | obituary format; no image by design |
+| Mildred Prater (obit) | 2026-04-27 | obituary format; no image by design |
+| Cheaha Challenge Pavement | 2026-04-26 | race is May 16 — seasonally live NOW; generate image soon |
 
 ---
 
-## Staged / Ready to Publish
+## Unpublished — Needs Hero Image Before Re-Publishing
 
-### Knox Concert Series Revival *(publish May–June 2026)*
-`content/articles/knox-concert-series-rebrand.mdx` — `published: false`
-Pro wrestling revival of 74-season classical series. Just Elvis (Halloween), Wet Concrete (November), Santa wrestling card in December slot. Hero image generated: `merch/designs/20260430_131822_gpt_wire-service-photograph.-interior-of-a-f.webp` — wire it in before publishing.
-**Action:** wire hero image, flip `published: true`
+Moved to `published: false` on 2026-04-30 to clean up the live site:
 
----
-
-## Knox Series — Banked Articles
-
-### Option B — One Act, Full Gravity *(write June–July 2026)*
-Knox books a single wrestling card as season opener and defends it in classical arts language: "choreography," "dramatic tension," "the arc of conflict." One JSU music faculty member: "I have nothing to add at this time." Seventeen subscribers have renewed. Ends on a folding chair — callback to `farmers-market-wrestling.mdx`.
-**Image prompt:** see `image-prompts.md` (Knox B section)
-**Note:** steel-chair callback only works if readers have seen the farmers market piece first.
-
-### Option C — The Holiday Slot *(write/publish December 2026)*
-With the Nutcracker gone after 46 years, the Knox Holiday Spectacular replaces it: a Christmas wrestling card, Santa in the main event. The Alabama Ballet did not respond. Tighter and darker than the revival piece. Stand-alone — doesn't require B to land first.
-**Image prompt:** see `image-prompts.md` (Knox C section)
-**Timing:** write in November, publish first week of December.
+| Article | File | Image Priority | Image concept |
+|---|---|---|---|
+| Highway 21 Church Marquee Standoff | `highway-21-marquee-standoff.mdx` | HIGH | Two roadside church marquees visible from car, competing messages |
+| Berman Museum Gala (artifacts missing) | `berman-museum-gala.mdx` | HIGH | Museum gala crowd, tuxedos, empty display case visible in bg |
+| Quintard Mall Vape Shop | `quintard-mall-vape-shop.mdx` | MEDIUM | Ribbon cutting, balloons, vape shop storefront inside mall |
+| Content Transformer Hum | `content-transformer-hum.mdx` | LOW | Utility workers around transformer, looks content |
+| Cheaha Summit Third Hiker | `cheaha-summit-third-hiker.mdx` | LOW | Park ranger at summit, casual, third missing person sign |
 
 ---
 
-## Other Banked Articles
+## Scheduled Releases
 
-### RMC / Orlando Health sale
-`content/articles/_drafts/rmc-sale-strategic-alignment.mdx`
-Hold until the real sale closes (fall 2026 expected). Timing impact depends on real event.
+### May–June 2026
+- **Cheaha Challenge race day** — May 16 event; write recap May 17, publish same week. Tie to existing pavement article.
+- **Highway 21 Marquee Standoff** — generate image, re-publish. High visibility article.
+- **1–2 evergreen pieces** — Berman gala, quintard vape, or any from banked list below.
 
-### Oxford Middle School Singularity
-`CONCEPT.md` — A-tier. Student wins science fair with invention that accidentally ends history. Write any time.
+### September 2026
+- **Knox Night One Recap** (`_drafts/knox-night-one-recap.mdx`)
+  - Publish ~September 22 (after fictional Sept 18–19 card)
+  - Generate hero image: seats, ring, damaged folding chair
+  - Callback to farmers-market-wrestling folding chair line lands here
 
-### Alabama the Band
-Fort Payne angle. Buford covers them as a local developing story. No draft yet.
+### October–November 2026
+- **RMC / Orlando Health sale** (`_drafts/rmc-sale-strategic-alignment.mdx`)
+  - Hold until real sale closes (expected fall 2026)
+  - Publish within 48 hours of real announcement for topicality
 
-### Alabama Parody Shirts (merch, not article)
-"Waffle House Is Our Notre Dame" / "Investment-Ready Since 1819" / "Dollar General: Alabama's Third-Largest City"
+### December 2026
+- **Knox Holiday Spectacular** (`_drafts/knox-holiday-spectacular.mdx`)
+  - Publish first week of December
+  - Generate hero: wrestling ring, Christmas tinsel on corner posts, velvet seats, Santa mid-action
+  - Natural December anchor — do not publish early
+
+---
+
+## Knox Series Arc (all three pieces)
+
+| Piece | File | Status | Target Date |
+|---|---|---|---|
+| Knox Concert Series Revival | `knox-concert-series-rebrand.mdx` | LIVE | 2026-06-15 |
+| Knox Night One Recap | `_drafts/knox-night-one-recap.mdx` | Draft | ~2026-09-22 |
+| Knox Holiday Spectacular | `_drafts/knox-holiday-spectacular.mdx` | Draft | ~2026-12-01 |
+
+Space these — do not compress. C stands alone without B.
+
+---
+
+## Banked (not yet written)
+
+- **Alabama the Band** — Fort Payne local-story angle. Buford covers as regional beat. No draft.
+- **OPAC rivalry arc** — 5 angles documented (see CONCEPT.md). None drafted.
+- **Alabama parody merch shirts** — "Waffle House Is Our Notre Dame" / "Investment-Ready Since 1819" / "Dollar General: Alabama's Third-Largest City." No designs yet.
+
+---
+
+## OPAC Angles (banked, document in CONCEPT.md)
+1. Geopolitical rivalry — Anniston vs. Oxford, one arts market
+2. Anniston Musical Capital — historical framing, OPAC is the new venue
+3. Knox Declines OPAC — returns to original Anniston venue out of loyalty
+4. The Jail — OPAC adjacent to Oxford jail; angle TBD
+5. Anniston's Response — city reacts to losing the Nutcracker to Oxford
 
 ---
 
 ## Notes
-- Space Knox pieces across issues — not back to back.
-- C is a natural December anchor. Don't publish it in July.
-- Option B's folding chair callback: only effective if the farmers market piece has been live long enough for readers to know it.
+- Knox pieces: revival (June) → recap (September) → holiday (December). Do not compress.
+- Cheaha Challenge pavement article is live NOW and timely for May 16 — don't miss the window.
+- RMC draft is timing-sensitive — monitor real news and publish fast when it breaks.
+- Obituaries (Earl T. Waggoner, Mildred Prater) are text-only by design; no image needed.
