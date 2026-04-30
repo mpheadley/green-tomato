@@ -21,6 +21,7 @@ Every GT image should read as **wire service / small-town newspaper photography,
 - Photographers visible in frame — breaks the wire service POV
 - Posed subjects — action mid-moment, slightly off-center framing
 - All-white crowds or casts — Anniston is a majority-Black city (~55% Black, ~40% white). Defaulting to white subjects misrepresents the place. Fix it in the prompt, not after.
+- Real trademarked logos or brand names rendered visibly in the image — use "No text" to suppress them, or if a logo must appear, describe a misspelled/altered version (e.g. "NASKAR" not "NASCAR", "Chick-fil-A" becomes "Chik-Fil-A", "Walmart" becomes "Wal-Mart Supercenter signage, partially obscured"). See LEGAL_GUIDELINES.md §2 for full approved techniques. Note: "No text" in the prompt handles most cases automatically — the model won't render legible brand names. Only specify a misspelling when a logo is a deliberate visual element of the scene.
 
 **Diversity — build it into every prompt:**
 Anniston and Calhoun County are racially diverse. The default AI output skews white; correct for it explicitly. For any scene with people:
