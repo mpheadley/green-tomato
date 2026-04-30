@@ -30,6 +30,10 @@ Anniston and Calhoun County are racially diverse. The default AI output skews wh
 - One person: consider "a Black woman in a blazer," "a middle-aged Black man," "an older white man," etc. — whatever fits the scene and reflects where this actually takes place.
 - Never over-specify to the point of tokenism. The goal is accuracy, not a checklist. If a scene has one person, pick what feels true to the story.
 
+**Always show the prompt to Matt before generating.** Draft it, present it, wait for approval. Never run the tool first.
+
+**After every generation, immediately run `open -R <path>` to reveal in Finder.** No exceptions.
+
 **Model: always GPT** (`--model gpt`) for all GT article images. No exceptions. GPT handles multi-person scenes, institutional settings, and period-correct news photography better than Imagen for this project.
 
 **Base prompt template:**
