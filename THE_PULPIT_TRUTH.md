@@ -370,16 +370,34 @@ The case against now: narrows brand to dominion theology specifically, fronts a 
 
 The Sovereign · The Mantle · The Mountain / Mountaintop · Dominion / The Dominion · The Gate / The Gates
 
-### Domain
+### Domain Strategy
 
-**Pending availability check.** `thepulpittruth.com` is the preferred lock — every major real conservative-Christian outlet uses .com (Christian Post, Charisma News, Faithwire, Babylon Bee, Daily Wire, The Federalist, PragerU, Newsmax). The satire wants the same TLD as its targets. If `.com` is unavailable or prohibitively priced, fall back to `thepulpittruth.news` — sister-project consistency with `thegreentomato.news` and journalism-coded TLD. Defensive registration of all three (`.com`, `.news`, `.media`) is cheap insurance once the primary is chosen.
+**Pending Matt's `.com` availability check.** Three-domain strategy proposed:
+
+- **`thepulpittruth.com`** — *canonical, the publication.* Matches the TLD of every direct satirical target (Daily Wire, PragerU, Newsmax, The Federalist, Christian Post, Charisma News). Highest discoverability and universal trust; reads as a real news outlet on first contact. *Note on terminology:* satirical *targets* are the real, sincere outlets being mimicked (those listed above) — distinct from satirical *sites* (peers like Babylon Bee, The Onion, GT itself). Match TLDs to targets, not peers; Babylon Bee being on `.com` is incidental.
+- **`zioncommunitychurch.org`** — *the fake publisher church website.* Real small-megachurch websites are almost always `.org`. Building Zion Community Church on `.org` (separate from The Pulpit Truth) is the in-character move — two distinct fictional URLs, fully committed ecosystem. Don't conflate publisher and publication.
+- **`thepulpittruth.org`** — *defensive redirect to `.com`.* Anyone who hears "thepulpittruth" and types `.org` (because the brand carries ministry register) lands on the canonical site. ~$10/year, one redirect rule, prevents squatter / impersonator risk.
+
+Optional fourth: `thepulpittruth.news` defensive — sister-project consistency with `thegreentomato.news`. Lower priority; only if budget allows. ~$15/year.
+
+Total at three domains: ~$45/year. Cheap insurance once The Pulpit Truth has any traction.
+
+**TLD reasoning (`.com` over `.org` for canonical):**
+- Most direct satirical targets are commercial Christian-truth outlets on `.com`. The mimicry frame works best when matched.
+- `.org` carries "ministry / movement" register (Gospel Coalition, TBN, Focus on the Family, World News Group). Genuine alternate fit, but readers expect news at `.com`.
+- `.org` would be a strong second pick for canonical if `.com` is unavailable — *not* a fallback to `.news`.
+
+**TLD reasoning (`.org` for Zion Community Church specifically):**
+- Real church websites: almost universally `.org`.
+- The fictional ecosystem is more believable when each fictional entity uses the TLD its real-world counterpart would use.
+- Zion Community Church being on `.org` while The Pulpit Truth is on `.com` mirrors how real church-publication relationships work (e.g., a church on `.org` running a publication on `.com`).
 
 ---
 
 ## Open Questions
 
 1. ~~Final name lock.~~ **LOCKED** 2026-05-01: The Pulpit Truth.
-2. **Domain.** `thepulpittruth.com` preferred (matches real-Christian-outlet TLD norms); `thepulpittruth.news` fallback. Pending availability check.
+2. **Domains.** Three-domain strategy: `thepulpittruth.com` canonical (publication), `zioncommunitychurch.org` separate (fake publisher church site), `thepulpittruth.org` defensive redirect. `.org` is the strong second canonical if `.com` unavailable. See §Domain Strategy. Pending Matt's `.com` availability check.
 3. **Pseudonyms.** Working: Rev. Beauregard (video) + Judson (written byline). Lock with the first published article.
 4. **Black-church-tradition collaborator.** Identify before writing or publishing that column.
 5. **Pastor network.** Build a list of real pastors across denominations who would contribute or boost — before launch, ask later.
@@ -404,7 +422,7 @@ The Sovereign · The Mantle · The Mountain / Mountaintop · Dominion / The Domi
 ## Next Steps
 
 1. ~~Lock the name.~~ **DONE** — The Pulpit Truth.
-2. **Lock the domain.** Check `thepulpittruth.com` availability; lock primary, defensively register `.news` and `.media`.
+2. **Lock the domains.** Check `thepulpittruth.com` availability. If available: register `thepulpittruth.com` (canonical), `zioncommunitychurch.org` (fake publisher church), `thepulpittruth.org` (defensive redirect). If `.com` unavailable: shift canonical to `thepulpittruth.org` and adjust accordingly.
 3. Lock the pseudonyms (Rev. Beauregard / Judson pending).
 4. Add the three drafted articles as MDX in `content/articles/_drafts/` with `pulpit-truth-` prefix, ready for promotion to GT's Faith & Religion section.
 5. Wire a Faith & Religion section into the GT site (incubation home).
