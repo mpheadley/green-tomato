@@ -6,24 +6,51 @@
 
 ## The Name
 
-**Working candidates: LNN (Liberty News Network) or LBN (Liberty Broadcasting Network). Pending — Matt thinking on it.**
+**Three name families on the table. Pending — Matt thinking on it.**
 
-The brand has to do specific work: a first-time visitor should land thinking "real conservative Christian outlet," not "real conservative outlet generally." Delayed-reveal satire only functions if the Christian-media frame loads on contact — that's the frame the writing then subverts.
+The brand has to do specific work: a first-time visitor should land thinking "real conservative Christian outlet," not "real conservative outlet generally." Delayed-reveal satire only functions if the Christian-media frame loads on contact — that's the frame the writing then subverts. Three families approach this differently.
+
+### Family 1: Register-led — "Liberty"
+
+Two shapes within this family. Both keep the "Liberty" cargo (Liberty University, religious-liberty framing). The choice between them is about what register the brand should sit in.
 
 **LNN — Liberty News Network**
-- Three-letter network shape (CNN/BBC) carries institutional gravity
-- Reads patriotic-first, Christian-second. "Liberty" only loads as Christian for readers who already know Liberty University or "religious liberty" framing
-- A general-audience visitor scans this as Newsmax/OAN — that's a different satirical target (conservative politics) than the actual one (Christian nationalism)
+- Three-letter `[X]NN` shape directly echoes The Onion News Network (which echoes CNN). Edgy, wire-service-satire-coded.
+- Reads patriotic-first, Christian-second. A general-audience visitor scans this as Newsmax/OAN — that's a different satirical target (conservative politics) than the actual one (Christian nationalism).
 - Ambiguity is on-theme — Christian nationalism *is* the patriotic-Christian fusion, so a name that embodies the fusion is doing satirical work. But it makes the satire harder to find for the people most likely to enjoy it.
+- **Best fit if:** the project's center of gravity is "Onion for ex-evangelicals" and the satire wants Onion-edgy framing.
 
-**LBN — Liberty Broadcasting Network** *(current recommendation)*
-- Slots into the CBN/TBN/INSP naming pattern. For the target audience (progressive Christians, ex-evangelicals, mainline pastors) — who grew up with or adjacent to Christian broadcasting — "LBN" pattern-matches as Christian media instantly
-- Keeps the "Liberty" cargo (Liberty University, religious-liberty register) without forcing it to do all the work
-- Fixes the recognition problem LNN has, at the cost of some ambiguity
+**LBN — Liberty Broadcasting Network**
+- Slots into the CBN/TBN/INSP naming pattern. For the target audience — progressive Christians, ex-evangelicals, mainline pastors who grew up with or adjacent to Christian broadcasting — "LBN" pattern-matches as Christian media instantly.
+- Keeps the "Liberty" cargo without forcing it to do all the work.
+- Fixes the recognition problem LNN has, at the cost of some Onion-edge.
+- **Best fit if:** the project's center of gravity is "real Christian outlet, but the writing is satire" and delayed-reveal does most of the work.
 
-**Recommendation:** LBN. Delayed-reveal works better when the audience knows what kind of outlet they're looking at and *then* gets surprised by the content. LNN puts that recognition lift on the writing alone.
+### Family 2: Metaphor-led — "The Pulpit" and kin
 
-**Open:** domain. Decision deferred until name clears. `lbn.news` / `libertybroadcastingnetwork.com` / `libertybroadcasting.news` are candidates.
+Both Liberty options carry register, not metaphor — they tell you who the outlet pretends to be, not what the satire is doing. The Onion peels back layers. Green Tomato is unripe. Babylon Bee is busy work in a fallen empire. Each carries a built-in thesis. The arguments in `CONCEPT.md §"Why Green Tomato wins"` (pre-installed humor, pre-installed metaphor, pre-installed visual ownability, lower brand-collision surface) all apply here — the same trade-off Matt won once already against `The Calhoun Gazette`.
+
+A metaphor name pushes toward "obvious satire project" by default — but if the metaphor *also* sounds like a plausible real Christian outlet, delayed-reveal stays alive. Real Christian outlets routinely use concept-names: *Charisma, Decision, Relevant, Outreach, World, Sojourners, Christianity Today*. There's a natural slot here.
+
+**Candidates:**
+- **The Pulpit** *(strongest)* — unit of church furniture, the place authority speaks from. Wordmark writes itself, masthead does work for free, "From The Pulpit" tagline is right there. Half-funny before the writing starts. Sounds like a real Christian magazine that exists.
+- **The Steeple** — looking down from the institution; ownable visual identity (silhouette is a logo).
+- **Plumb Line** — biblical (Amos), insider-coded for evangelicals. The metaphor *is* "we measure the culture against scripture" — which is exactly the register Christian-nationalist outlets adopt.
+- **The Watchman** — Ezekiel-coded, "warning the culture." Very real-conservative-Christian-outlet register; reads as plausible on first contact.
+
+**Best fit if:** the brand should do comic work on its own (like Green Tomato does), and the project wants a single unifying thesis the name carries.
+
+### How to decide
+
+Three clarifying axes:
+
+1. **Onion-edge or institutional-Christian gravity?** LNN sits closer to Onion. LBN sits closer to institutional Christian media. The Pulpit / metaphor-family sits closer to Onion — the name itself is the joke setup.
+2. **Should the name carry a thesis?** If yes → metaphor family. If the chrome and writing should do all the work → Liberty family.
+3. **Who does the recognition lift?** If the audience needs to land knowing what they're looking at → LBN or The Pulpit. If the writing can carry the lift → LNN works.
+
+No single recommendation until those axes resolve. **The Pulpit** is the sleeper pick if Matt wants the name itself to do GT-style comic work; **LBN** is the safer pick if the brand should stay institutional and let the writing do the satire.
+
+**Open:** domain — decide after name clears. Likely-available candidates: `lbn.news`, `thepulpit.news`, `libertybroadcasting.news`, `pulpit.news`.
 
 ---
 
