@@ -681,13 +681,40 @@ These two combine into the strongest piece because they share a common spine: **
 
 ---
 
-## Called Coffee — Hard Rule
+## Called Coffee — Article Series (Rule Lifted 2026-04-30)
 
-**Do not satirize Called Coffee directly.** Jerrod Snyder is on the active SL profile pipeline; the relationship is warm and the HW prospect is real. Direct satire of Called Coffee — even affectionate — risks both before either is established.
+Hard rule lifted by Matt. Called Coffee satire is cleared. Jerod's name cannot appear (real individual = fictional name in articles); Called Coffee CAN be named.
 
-**After Jerrod's SL profile publishes,** Called Coffee can be referenced *with affection* the way local papers reference local landmarks (Big Sam the Balloon Man, the Sinclair Social, etc.). That's not satire — that's world-building via real beloved details.
+**Fictional owner name for articles: TBD** — drafts currently use unnamed "downtown Anniston coffee retailer." Wire in a fictional name before publishing.
 
-**Genre coffee satire is fine** without naming any specific shop. Examples: pour-over / iced confusion, single-origin Ethiopian ordered like a latte, regional barista championship dominated by Birmingham finalists. These ride the third-wave-coffee-in-Alabama category without targeting Jerrod.
+**Three banked drafts (all `published: false`):**
+1. `_drafts/coffee-pumpkin-spice-riots.mdx` — owner refuses PSL; Quintard storefronts sustain damage. Publish late September.
+2. `_drafts/coffee-bean-origin-protocol.mdx` — new ordering policy requires customers to name origin/varietal/roast before ordering "a latte." 14 have left. Publish October.
+3. `_drafts/coffee-laptop-rent.mdx` — Co-Working Premium: $4/hr, waived for orders over $18. Short notice format. Publish anytime.
+
+**Timing:** PSL riots → October bean protocol → laptop rent. Three-piece arc through fall. Space them.
+
+**Pitching note:** Give Jerod a heads-up before first piece publishes — text, not email, not formal approval. "I wrote something about Called Coffee for my satire site, wanted you to see it first." Not asking permission. If he objects, pull it. He probably won't.
+
+**After the SL profile publishes**, Called Coffee can also appear as a real affectionate detail in other articles — "Buford files from Called Coffee," etc.
+
+---
+
+## United Way of East Central Alabama — Article Series
+
+Real institution, can be named. Real director (Shannon Jenkins) cannot be named — fictional name in articles: **Calvin Odom** (placeholder, can be changed before publish).
+
+**Four banked drafts (all `published: false`):**
+1. `_drafts/uweca-knowledge-audit.mdx` — 22-year knowledge audit, 4 binders, 15,000 notes, 11 lbs. "Not a goodbye." Evergreen.
+2. `_drafts/uweca-cries-seventh-year.mdx` — director cries onstage at Live United for 7th consecutive year. Publish after annual event (~September).
+3. `_drafts/uweca-movie-gallery.mdx` — career began at Movie Gallery. "The late fees taught him something. He did not elaborate." Short notice format. Evergreen.
+4. *(not yet drafted)* — StoryBrand fourth certification. "Director describes framework as 'just how narrative works.'" Short.
+
+**On retirement:** Shannon has not announced retirement. Do not frame as retirement. The binders piece is framed as "annual knowledge audit" — equally funny, no false implication. Hold a true retirement piece for if/when he actually announces.
+
+**Pitching note:** Shannon has a warm relationship with Matt. Text him before the first UWECA piece publishes — same approach as Called Coffee. Not asking permission. He will almost certainly find it funny. The pieces read as admiration in deadpan clothing.
+
+**Crosslink:** Once the SL profile publishes, the Movie Gallery piece can link to it as a "related profile." The pieces reinforce each other across two very different registers.
 
 ---
 
