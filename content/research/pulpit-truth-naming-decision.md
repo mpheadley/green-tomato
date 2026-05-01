@@ -1,6 +1,8 @@
-# Pulpit — Naming Decision Arc
+# The Pulpit Truth — Naming Decision Arc
 
-*Captured 2026-05-01 from session conversation. Records how we landed on "The Pulpit" so future sessions can understand the reasoning, not just the conclusion. The conclusions are in `THE_PULPIT.md` §The Name; this doc is the why.*
+*Captured 2026-05-01 from session conversation. Records how we landed on "The Pulpit Truth" so future sessions can understand the reasoning, not just the conclusion. The conclusions are in `THE_PULPIT_TRUTH.md` §The Name; this doc is the why.*
+
+*Twelve rounds. The arc went: LNN → LBN → metaphor exploration → kingdom family → KNN → The Pulpit (Round 11) → The Pulpit Truth (Round 12, locked).*
 
 ---
 
@@ -89,7 +91,7 @@ That update tilted back toward KNN. **Synthesis proposed:** KNN as the brand umb
 
 Matt: "Document the Pulpit as the lead answer now."
 
-Final reasoning preserved in `THE_PULPIT.md` §The Name. The five-point case for The Pulpit:
+Five-point case for The Pulpit:
 
 1. Names Matt's standing, not the satirical target — irreplaceable credential
 2. Does GT-style comic work on first contact
@@ -99,15 +101,37 @@ Final reasoning preserved in `THE_PULPIT.md` §The Name. The five-point case for
 
 KNN-as-umbrella synthesis kept on the bench in case the project pivots video-first later.
 
+### Round 12 — The Truth upgrade (locked)
+
+Matt's argument: "The more seriously it takes itself, the funnier it is. That's the whole joke. The Onion doesn't wink at you. It presents absurdity with complete institutional gravitas and that's what makes it land. A publication called 'The Pulpit Voice' sounds like it knows it's an opinion outlet. A publication called 'The Pulpit Truth' sounds like it genuinely believes it has cornered the market on divine revelation — which is exactly the posture of the evangelical culture you're satirizing. The name itself is already the joke."
+
+He's right. "The Pulpit" alone is a metaphor name with implicit authority register; "The Pulpit Truth" makes the satirical commitment explicit. Real evangelical-coded outlets adopt the truth-claim register: World Magazine's tagline was "sound journalism, grounded in facts and biblical truth"; The Federalist, PragerU, Charisma News, Newsmax all position around truth-telling as a brand claim. The Pulpit Truth slots into that register and parodies it by existing.
+
+The "Truth" addition strengthens every prior argument:
+
+- **Names the satirical posture explicitly** (was implicit in "The Pulpit") — the pomposity of claiming Truth is itself the satirical thesis on the masthead
+- **Stronger real-outlet plausibility** — "The Pulpit Truth" sounds more like a real conservative-Christian outlet than "The Pulpit" alone
+- **Same first-contact comic work** as "The Pulpit," with an added pomposity beat
+- **Wordmark trade-off** — loses single-word cleanliness, but gains stacked-masthead weight (Pulpit large + Truth as sub-line, the same shape Christian Post and World Magazine use)
+
+Trade-offs accepted:
+- Longer URL (thepulpittruth.com vs. thepulpit.com)
+- Two-word wordmark instead of single-word
+- Slightly longer to type/say
+
+Both are negligible against the satirical commitment "Truth" carries.
+
+**Locked: The Pulpit Truth.** Domain: `thepulpittruth.com` preferred, `thepulpittruth.news` fallback.
+
 ---
 
 ## What this arc reveals
 
-- The right brand depends on which axis is load-bearing: register vs. metaphor, Onion-edge vs. institutional-Christian gravity, name-carries-thesis vs. chrome-carries-satire, audience-recognition vs. writing-carries-the-lift.
-- For The Pulpit specifically, the load-bearing axis turned out to be **personal credential**. Matt's 20 years pastoring is the project's primary asset; the brand should name it.
+- The right brand depends on which axis is load-bearing: register vs. metaphor, Onion-edge vs. institutional-Christian gravity, name-carries-thesis vs. chrome-carries-satire, audience-recognition vs. writing-carries-the-lift, and (Round 12) **how seriously the name itself takes the satirical posture**.
+- For The Pulpit Truth specifically, two axes were load-bearing: **personal credential** (the Pulpit half names Matt's 20 years pastoring — the project's primary asset) and **satirical commitment** (the Truth half names the posture being critiqued).
 - Future pivots that might re-open the question:
-  - If video becomes primary and the writing-strength argument inverts → revisit KNN with "From The Pulpit" as a segment
-  - If the satirical center of gravity tightens specifically to Christian nationalism (rather than evangelical authority broadly) → KNN out-targets The Pulpit
-  - If the brand needs to scale beyond a single voice → network-shaped names (KNN) hold multiple bylines better than a metaphor-name (The Pulpit)
+  - If video becomes primary and the writing-strength argument inverts → revisit KNN with "From The Pulpit Truth" as a segment within
+  - If the satirical center of gravity tightens specifically to Christian nationalism (rather than evangelical authority broadly) → KNN out-targets The Pulpit Truth
+  - If the brand needs to scale beyond a single voice → network-shaped names (KNN) hold multiple bylines better than a metaphor-name
 
 Don't re-litigate without one of those triggers.

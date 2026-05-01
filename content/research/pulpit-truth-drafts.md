@@ -1,8 +1,8 @@
-# The Pulpit — Drafted Articles
+# The Pulpit Truth — Drafted Articles
 
 *Three pieces drafted in handoff doc 2026-05-01. Ready to publish; awaiting infrastructure (Faith & Religion section in GT, pseudonyms locked, identity-protection workflow for video).*
 
-*Phase tagging refers to the launch strategy in `THE_PULPIT.md` §Launch Strategy. Promote to MDX in `content/articles/_drafts/` with `pulpit-` prefix when ready to schedule.*
+*Phase tagging refers to the launch strategy in `THE_PULPIT_TRUTH.md` §Launch Strategy. Promote to MDX in `content/articles/_drafts/` with `pulpit-truth-` prefix when ready to schedule.*
 
 ---
 
@@ -71,7 +71,7 @@ That's not control. That's love. That's what Scripture looks like when it's work
 - Anticipated reactions:
   - Conservatives will say "nobody actually does that" — which proves the satire landed
   - Progressives will think it's real documentation of abuse — and share it
-  - Both reactions amplify The Pulpit
+  - Both reactions amplify The Pulpit Truth
 - Identity-protection workflow required before filming: face swap or careful framing, voice alteration, pseudonym announced on camera ("I'm Rev. Beauregard")
 
 ---
@@ -110,4 +110,4 @@ The Oxford location reports seventeen baptisms in the first week, making it the 
 
 ### Cross-pollination note
 
-Cross-references GT's existing Chick-fil-A theology bit (`_drafts/chick-fil-a-oxford-chosen.mdx` — "Chick-fil-A Oxford Announces Second Location; City Describes Itself as Chosen"). Same observation, two outlets, two registers — Buford covers the Oxford location as Calhoun-County religion journalism; The Pulpit covers the national rollout. Good first crossover piece for Phase 1.
+Cross-references GT's existing Chick-fil-A theology bit (`_drafts/chick-fil-a-oxford-chosen.mdx` — "Chick-fil-A Oxford Announces Second Location; City Describes Itself as Chosen"). Same observation, two outlets, two registers — Buford covers the Oxford location as Calhoun-County religion journalism; The Pulpit Truth covers the national rollout. Good first crossover piece for Phase 1.

@@ -1,29 +1,29 @@
-# The Pulpit + Green Tomato — Two-Site Strategy
+# The Pulpit Truth + Green Tomato — Two-Site Strategy
 
 *Captured 2026-05-01 from brainstorm; expanded 2026-05-01 with comprehensive handoff. Operational plan for running both projects.*
 
-*Naming note: project name was originally "Liberty News Network / LNN" — landed on **The Pulpit** as the working name. See `THE_PULPIT.md` for the lead reasoning and `pulpit-naming-decision.md` for the full decision arc.*
+*Naming note: project name evolved through brainstorm — originally "Liberty News Network / LNN," then "The Pulpit," locked as **The Pulpit Truth** 2026-05-01. The "Truth" addition commits to the satirical posture (real evangelical-truth-outlet register). See `THE_PULPIT_TRUTH.md` for concept and `pulpit-truth-naming-decision.md` for the full decision arc.*
 
-*Strategy update (handoff): The Pulpit launches **inside** The Green Tomato as a Faith & Religion section, then spins off as an independent publication once it has traction. Earlier framing (syndicate from a separate Pulpit site to GT) is replaced by incubation-then-spinoff.*
+*Strategy update (handoff): The Pulpit Truth launches **inside** The Green Tomato as a Faith & Religion section, then spins off as an independent publication once it has traction. Earlier framing (syndicate from a separate Pulpit site to GT) is replaced by incubation-then-spinoff.*
 
 ---
 
 ## The Two-Project Frame
 
-**The Pulpit** — national focus, primary scaling target, larger audience potential. Progressive-Christian satire. Insider credibility (M.Div Northern Seminary, 20 years UMC pastoral). See `THE_PULPIT.md`.
+**The Pulpit Truth** — national focus, primary scaling target, larger audience potential. Progressive-Christian satire. Insider credibility (M.Div Northern Seminary, 20 years UMC pastoral). See `THE_PULPIT_TRUTH.md`.
 
-**The Green Tomato (GT)** — regional Alabama / East Central Alabama. Live, not yet publicly launched. Hosts The Pulpit during incubation. See `CONCEPT.md`.
+**The Green Tomato (GT)** — regional Alabama / East Central Alabama. Live, not yet publicly launched. Hosts The Pulpit Truth during incubation. See `CONCEPT.md`.
 
 **Why both, why not one:**
-- The voices don't overlap. Buford is a Calhoun County bureau chief who cannot do national religion satire without breaking character. The Pulpit's communications-director-of-Zion narrator cannot do Oxford's third Dollar General without breaking character. Forcing them into one outlet flattens both.
-- The audiences are different. The Pulpit scales to ex-evangelicals and progressive Christians nationally. GT scales to Calhoun County and adjacent. Overlap exists, but the front doors should be different so each audience finds its outlet.
-- The risk profiles are different. GT names real Anniston-area institutions under Matt's pseudonymous-but-traceable byline. The Pulpit names megachurch pastors and national political figures under hard-pseudonymous bylines (Rev. Beauregard / Judson) with identity-protection workflows for video. Different legal posture, different editorial guardrails.
-- The aesthetics should be different. GT is locked-in 1998 cosplay. The Pulpit should look current (modern Christian newsmagazine register). One site cannot do both visual jokes — which is partly why The Pulpit eventually spins off.
+- The voices don't overlap. Buford is a Calhoun County bureau chief who cannot do national religion satire without breaking character. The Pulpit Truth's communications-director-of-Zion narrator cannot do Oxford's third Dollar General without breaking character. Forcing them into one outlet flattens both.
+- The audiences are different. The Pulpit Truth scales to ex-evangelicals and progressive Christians nationally. GT scales to Calhoun County and adjacent. Overlap exists, but the front doors should be different so each audience finds its outlet.
+- The risk profiles are different. GT names real Anniston-area institutions under Matt's pseudonymous-but-traceable byline. The Pulpit Truth names megachurch pastors and national political figures under hard-pseudonymous bylines (Rev. Beauregard / Judson) with identity-protection workflows for video. Different legal posture, different editorial guardrails.
+- The aesthetics should be different. GT is locked-in 1998 cosplay. The Pulpit Truth should look current (modern Christian newsmagazine register). One site cannot do both visual jokes — which is partly why The Pulpit Truth eventually spins off.
 
 **Why not pick one and drop the other:**
 - GT is already live with ~30 articles. Sunk-cost is small but real, and the work is good.
-- The Pulpit has a clear gap-in-market thesis and Matt's deepest credential. Hard to walk away from.
-- Hosting The Pulpit inside GT during incubation costs nothing extra and creates cross-pollination.
+- The Pulpit Truth has a clear gap-in-market thesis and Matt's deepest credential. Hard to walk away from.
+- Hosting The Pulpit Truth inside GT during incubation costs nothing extra and creates cross-pollination.
 
 ---
 
@@ -31,13 +31,13 @@
 
 Matt's face and name on Pulpit content risks damaging Headley Web (web design business) and Southern Legends (community storytelling) — both have conservative Jacksonville, Alabama clientele. **Matt's identity must stay protected locally. This is non-negotiable.**
 
-GT operates with looser pseudonymity (Buford is the persona; Matt's authorship is structural but not advertised). The Pulpit operates with hard pseudonymity:
+GT operates with looser pseudonymity (Buford is the persona; Matt's authorship is structural but not advertised). The Pulpit Truth operates with hard pseudonymity:
 - All bylines under fictional names (Rev. Beauregard for video, Judson for written)
 - Video uses face swap or careful framing + voice alteration
 - Pseudonym announced on camera ("I'm Rev. Beauregard")
 - Matt's real name never appears on Pulpit content
 
-This adds a constraint to the build: even though The Pulpit incubates inside GT, the Pulpit content needs separate authorship attribution and visual treatment. When the Faith & Religion section ships, its bylines and About content cannot reveal Matt.
+This adds a constraint to the build: even though The Pulpit Truth incubates inside GT, the Pulpit content needs separate authorship attribution and visual treatment. When the Faith & Religion section ships, its bylines and About content cannot reveal Matt.
 
 ---
 
@@ -45,56 +45,56 @@ This adds a constraint to the build: even though The Pulpit incubates inside GT,
 
 ### Now → near term (next 1–2 months)
 - **GT continues at current pace** (1–2 articles/month, per `editorial-calendar.md`). Don't accelerate. Don't slow.
-- **The Pulpit voice test.** Three drafts already complete (Shepherd App, Submission Sermon, Chick-fil-A Baptism — see `pulpit-drafts.md`). Extend to 5–10 articles in flat Markdown. Goal: prove the voice holds across the Phase 1 / Phase 2 / Phase 3 launch slate. If it doesn't, fix the concept before building infrastructure.
+- **The Pulpit Truth voice test.** Three drafts already complete (Shepherd App, Submission Sermon, Chick-fil-A Baptism — see `pulpit-truth-drafts.md`). Extend to 5–10 articles in flat Markdown. Goal: prove the voice holds across the Phase 1 / Phase 2 / Phase 3 launch slate. If it doesn't, fix the concept before building infrastructure.
 - **Lock pseudonyms.** Rev. Beauregard / Judson are working candidates. Lock with the first published piece.
 - **Domain decision deferred.** Pulpit doesn't need its own domain during incubation phase. Defer until spinoff.
 
 ### Mid term (2–6 months out)
-- **Wire Faith & Religion section into GT.** This is The Pulpit's incubation home. Visual treatment for Pulpit content distinct from Buford's voice — different masthead badge, different pseudonym attribution, ideally a different stylesheet within the section.
+- **Wire Faith & Religion section into GT.** This is The Pulpit Truth's incubation home. Visual treatment for Pulpit content distinct from Buford's voice — different masthead badge, different pseudonym attribution, ideally a different stylesheet within the section.
 - **Promote drafted articles to MDX in `content/articles/_drafts/`** with `pulpit-` prefix, ready for the Faith & Religion section.
-- **Begin video for The Pulpit** — sermon-style segments first (most distinctive to brand). Identity-protection workflow (face swap tool, voice alteration) gates video pace; decide on tooling before filming.
-- **Identify Black-church-tradition collaborator** for The Pulpit. Do not launch that column without one.
+- **Begin video for The Pulpit Truth** — sermon-style segments first (most distinctive to brand). Identity-protection workflow (face swap tool, voice alteration) gates video pace; decide on tooling before filming.
+- **Identify Black-church-tradition collaborator** for The Pulpit Truth. Do not launch that column without one.
 - **Make intro to Calhoun County progressive-Christian TikTok preacher.** Possible collaborator on video and commentary; access to Sebastian (videographer son) could solve the production-capacity bottleneck.
 - **Audience benchmark:** 3–6 months to 1,000 readers. Not a promise, a checkpoint to evaluate spinoff readiness.
 
 ### Long term (6+ months)
 - **Public launch GT** (still pre-launch — needs the holdback removed when ready).
-- **The Pulpit spinoff** once traction is established (1,000+ readers, distinctive audience separate from GT's regional readership). Independent domain (`thepulpit.news` / `pulpit.news`), independent visual identity (modern Christian newsmagazine), independent pastor network.
+- **The Pulpit Truth spinoff** once traction is established (1,000+ readers, distinctive audience separate from GT's regional readership). Independent domain (`thepulpit.news` / `pulpit.news`), independent visual identity (modern Christian newsmagazine), independent pastor network.
 - **Faith & Religion section in GT continues** — at spinoff, it transitions from "incubation home" to "syndicated view of Pulpit content." Same articles, two front doors.
-- **Walton Goggins / Gemstones pitch** only after The Pulpit has a body of work to point at.
+- **Walton Goggins / Gemstones pitch** only after The Pulpit Truth has a body of work to point at.
 - **Patreon / merchandise / speaking** as audience grows.
 
-The order matters: GT is already running, so it doesn't need a sprint. The Pulpit is the new build inside it, and should get the focused energy. Don't try to do both new at once.
+The order matters: GT is already running, so it doesn't need a sprint. The Pulpit Truth is the new build inside it, and should get the focused energy. Don't try to do both new at once.
 
 ---
 
 ## Home Base — Incubate Inside GT, Then Spin Off
 
-**Phase 1 — Incubate (months 0–6).** The Pulpit launches as the Faith & Religion section of GT. Zero new infrastructure cost. Articles live as MDX in GT's content tree, badged as Faith & Religion / The Pulpit. Bylines pseudonymous (Rev. Beauregard / Judson). About copy explains Faith & Religion as content from "The Pulpit, the official communications outlet of Zion Community Church" — playing the bit straight.
+**Phase 1 — Incubate (months 0–6).** The Pulpit Truth launches as the Faith & Religion section of GT. Zero new infrastructure cost. Articles live as MDX in GT's content tree, badged as Faith & Religion / The Pulpit Truth. Bylines pseudonymous (Rev. Beauregard / Judson). About copy explains Faith & Religion as content from "The Pulpit Truth, the official communications outlet of Zion Community Church" — playing the bit straight.
 
-**Phase 2 — Spinoff (months 6+, contingent on traction).** The Pulpit launches at its own domain with its own visual identity (modern Christian newsmagazine register). GT's Faith & Religion section continues as a syndicated view — same articles, GT-styled chrome — to keep both front doors active.
+**Phase 2 — Spinoff (months 6+, contingent on traction).** The Pulpit Truth launches at its own domain with its own visual identity (modern Christian newsmagazine register). GT's Faith & Religion section continues as a syndicated view — same articles, GT-styled chrome — to keep both front doors active.
 
-This is cheaper than premature launch. The Pulpit doesn't need its own domain or chrome until it has a body of work and an audience that justifies separate infrastructure.
+This is cheaper than premature launch. The Pulpit Truth doesn't need its own domain or chrome until it has a body of work and an audience that justifies separate infrastructure.
 
 ---
 
 ## Syndication Model (post-spinoff)
 
-**GT → The Pulpit:** GT does not feed The Pulpit. Calhoun-specific bits don't travel.
+**GT → The Pulpit Truth:** GT does not feed The Pulpit Truth. Calhoun-specific bits don't travel.
 
-**The Pulpit → GT:** GT pulls The Pulpit's faith content into a "Faith & Religion" section. This:
+**The Pulpit Truth → GT:** GT pulls The Pulpit Truth's faith content into a "Faith & Religion" section. This:
 - Gives GT a fifth section without writing more
-- Cross-promotes The Pulpit to GT's regional audience (likely overlap)
+- Cross-promotes The Pulpit Truth to GT's regional audience (likely overlap)
 - Keeps GT's local voice intact — Pulpit content is clearly badged as syndicated, not Buford
 
-**Implementation note (when we get there):** keep The Pulpit articles as the source of truth post-spinoff. GT's faith section should be a syndicated view, not duplicate MDX files. Probably a content collection or build-time fetch from a shared content directory. Decide when building, not now.
+**Implementation note (when we get there):** keep The Pulpit Truth articles as the source of truth post-spinoff. GT's faith section should be a syndicated view, not duplicate MDX files. Probably a content collection or build-time fetch from a shared content directory. Decide when building, not now.
 
 **Cross-pollinating bits (one observation, two pieces):**
-- **Chick-fil-A theology.** GT covers a specific Oxford CFA opening as religion journalism (already drafted: `_drafts/chick-fil-a-oxford-chosen.mdx`). The Pulpit covers the national pattern (Chick-fil-A Baptism — drafted, see `pulpit-drafts.md`). The Pulpit's Chick-fil-A piece even names Oxford as the pilot location, which makes it a natural first crossover when both pieces ship.
-- **Megachurch coverage.** GT has Pastor Brad Ellison at The Bridge at Oxford (CONCEPT.md cast). The Pulpit has the Communications Director of Zion Community Church + a stable of pastor characters (Hipster, Neo-Calvinist, Prosperity, Fundamentalist, Megachurch Celebrity, Southern Baptist Traditionalist). Don't merge; local and national versions of the same archetype.
-- **Southern Gospel.** Could go either way. Default to The Pulpit unless the bit is specifically Calhoun-coded.
+- **Chick-fil-A theology.** GT covers a specific Oxford CFA opening as religion journalism (already drafted: `_drafts/chick-fil-a-oxford-chosen.mdx`). The Pulpit Truth covers the national pattern (Chick-fil-A Baptism — drafted, see `pulpit-truth-drafts.md`). The Pulpit Truth's Chick-fil-A piece even names Oxford as the pilot location, which makes it a natural first crossover when both pieces ship.
+- **Megachurch coverage.** GT has Pastor Brad Ellison at The Bridge at Oxford (CONCEPT.md cast). The Pulpit Truth has the Communications Director of Zion Community Church + a stable of pastor characters (Hipster, Neo-Calvinist, Prosperity, Fundamentalist, Megachurch Celebrity, Southern Baptist Traditionalist). Don't merge; local and national versions of the same archetype.
+- **Southern Gospel.** Could go either way. Default to The Pulpit Truth unless the bit is specifically Calhoun-coded.
 
-Rule of thumb: if it could run in any Bible Belt town, it's The Pulpit. If it requires Calhoun County context to land, it's GT.
+Rule of thumb: if it could run in any Bible Belt town, it's The Pulpit Truth. If it requires Calhoun County context to land, it's GT.
 
 ---
 
@@ -119,7 +119,7 @@ The brainstorm surfaced GT-specific bits not yet in `satire-targets.md` or `edit
 - 2026 gubernatorial race — Ivey term-limited, Tuberville running. Buford covers as wire-service.
 - Auburn's new head coach Alex Golesh — coaching absurdity, plays into existing GT football register.
 - Iron Bowl satire — already implied in CONCEPT.md.
-- **Sabanology as religion** — fans baptized in Saban's name. "Theology of Eternal Domination" connecting football supremacy to Christian nationalism. **This is a hinge bit** — could run on either site. Probably GT first (Alabama-coded), then a national version on The Pulpit.
+- **Sabanology as religion** — fans baptized in Saban's name. "Theology of Eternal Domination" connecting football supremacy to Christian nationalism. **This is a hinge bit** — could run on either site. Probably GT first (Alabama-coded), then a national version on The Pulpit Truth.
 
 ### Food / Retail Culture
 - Jack's as senior center — "Jack's Expands Senior Services After Realizing They're Running De Facto Retirement Community." Fits GT's existing Jack's-as-sacrament register.
@@ -150,13 +150,13 @@ The brainstorm surfaced GT-specific bits not yet in `satire-targets.md` or `edit
 
 Currently GT site structure is flat-ish (articles, drafts). Brainstorm proposed:
 - Politics
-- Faith & Religion (syndicated from The Pulpit)
+- Faith & Religion (syndicated from The Pulpit Truth)
 - Arts & Culture
 - Lifestyle
 - Gardening
 - Sports
 
-**Recommendation:** don't add sections until there's enough content to populate them. A section with two articles in it reads as broken. Re-evaluate when we have ~10 published articles per proposed section. Faith & Religion is the exception — once The Pulpit exists, it can launch with however many articles already exist.
+**Recommendation:** don't add sections until there's enough content to populate them. A section with two articles in it reads as broken. Re-evaluate when we have ~10 published articles per proposed section. Faith & Religion is the exception — once The Pulpit Truth exists, it can launch with however many articles already exist.
 
 ---
 
@@ -168,8 +168,8 @@ Track these and follow up. Most are Pulpit-relevant.
 - **Mockingbird Media** — Episcopal/Presbyterian progressive Christian outlet; reference, possible cross-pollination
 - **John Wesley graphic/comic strip** — Methodist pastor satire project; possible collaborator
 - **Walton Goggins / Righteous Gemstones producers** — long-term pitch; not a near-term move
-- **Local Jacksonville theater friends** — real actors for The Pulpit video content; line up before video production
-- **Real pastor network across denominations** — guest contributors for The Pulpit; build the list now, ask later
+- **Local Jacksonville theater friends** — real actors for The Pulpit Truth video content; line up before video production
+- **Real pastor network across denominations** — guest contributors for The Pulpit Truth; build the list now, ask later
 - **Black church tradition collaborator** — *required* for the fake-pastor column. Do not launch without one.
 - **Calhoun County progressive Christian TikTok preacher** — knows Sebastian (videographer son). Possible collaborator on video and commentary. Make the intro early — production capacity may be solvable here.
 
@@ -177,13 +177,13 @@ Track these and follow up. Most are Pulpit-relevant.
 
 ## Strategic Notes (kept here so they don't get lost)
 
-- The Pulpit = national focus, primary project (M.Div Northern Seminary, 20 years UMC pastoral)
+- The Pulpit Truth = national focus, primary project (M.Div Northern Seminary, 20 years UMC pastoral)
 - GT = regional Alabama focus, secondary / Pulpit's incubation home pre-spinoff / syndication partner post-spinoff
-- Both start from zero audience — The Pulpit has bigger national scaling potential
+- Both start from zero audience — The Pulpit Truth has bigger national scaling potential
 - Matt's pastoral background = credibility to satirize from inside the tradition (cannot be faked, irreplaceable)
-- The Pulpit is prophetic work for Matt, not just a comedy project. Hold it with that weight. Grief over lost ministry is real and present; the project is partly healing work.
+- The Pulpit Truth is prophetic work for Matt, not just a comedy project. Hold it with that weight. Grief over lost ministry is real and present; the project is partly healing work.
 - Always punch up at systems, never down at victims (especially survivors of spiritual abuse)
-- Identity protection for The Pulpit is non-negotiable. Pseudonyms (Rev. Beauregard, Judson) and face/voice alteration for video are required.
+- Identity protection for The Pulpit Truth is non-negotiable. Pseudonyms (Rev. Beauregard, Judson) and face/voice alteration for video are required.
 - Find real Black pastor collaborator for Black church tradition column — don't write that voice yourself
 - Loop in Mayor Sierra Smith before publishing pieces about her (GT-side risk, separate from Pulpit identity protection)
 - Don't dumb down theology — Matt's M.Div is a strength, but stay in pew vocabulary not seminary vocabulary
