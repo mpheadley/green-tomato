@@ -1,8 +1,8 @@
 export const siteConfig = {
   name: "The Green Tomato",
-  tagline: "Calhoun County's Most Trusted News Source Since Recently",
+  tagline: "Alabama's Most Trusted News Source Since Recently",
   description:
-    "The Green Tomato is the vegetable of record for Calhoun County, Alabama. Breaking news, developing stories, and community coverage you can trust.",
+    "The Green Tomato is the vegetable of record for the state of Alabama. Breaking news, developing stories, and community coverage you can trust, from Calhoun County and beyond.",
   url: "https://thegreentomato.news",
   author: "Buford Tatum, Bureau Chief",
   webmaster: "buford_tatum@aol.com",

@@ -267,7 +267,7 @@ Run with: `python3 scripts/gt-image.py "<prompt>" --model gpt`
 ### Chick-fil-A Oxford Second Location
 
 **File:** `public/images/articles/chick-fil-a-oxford-chosen/hero.webp`
-**Status:** PENDING — credit exhausted
+**Status:** DONE — `public/images/articles/chick-fil-b-exterior-hero.webp`
 
 **Prompt:**
 > Wire service photograph. Exterior of a fast food chicken restaurant called "Chick-fil-B" — red-and-white signage with the letter B clearly visible where A would be, drive-through lane with four cars waiting. Flat Alabama sunlight on a commercial strip. A white city water tower is visible in the background. A Black woman and a white teenager walk toward the entrance. Photojournalistic grain. Slightly blown-out highlights. No text except the altered store sign.
@@ -357,7 +357,7 @@ Run with: `python3 scripts/gt-image.py "<prompt>" --model gpt`
 ### Hobby Lobby Seasonal Transition
 
 **File:** `public/images/articles/hobby-lobby-seasonal-transition/hero.webp`
-**Status:** PENDING — credit exhausted
+**Status:** DONE — `public/images/articles/hobby-lobby-skeleton-hero.webp`
 
 **Prompt:**
 > Wire service photograph. Craft store interior, seasonal merchandise aisle. Left side of the aisle: Christmas ornaments, garland, and boxed village pieces fully stocked and bright. Right side of the same aisle: a single foam skeleton on a metal endcap, marked with a large orange 75% OFF tag. A white woman in her fifties stands in the aisle looking at the skeleton. She does not appear to have made a decision. Photojournalistic grain. Slightly blown-out highlights. No readable text except the price tag.
@@ -395,7 +395,7 @@ Run with: `python3 scripts/gt-image.py "<prompt>" --model gpt`
 ### Anniston Has Culture
 
 **File:** `public/images/articles/anniston-has-culture/hero.webp`
-**Status:** PENDING — credit exhausted
+**Status:** DONE — `public/images/articles/anniston-museum-exterior-hero.webp`
 
 **Image+Headline note:** Sign on the museum reads "Anniston Muzeum of Natrul History" (altered). One car in the lot. Blue sky. Perfectly normal institutional exterior — which is the whole joke. The headline does the rest.
 
@@ -408,5 +408,186 @@ Run with: `python3 scripts/gt-image.py "<prompt>" --model gpt`
 - [x] Slightly blown-out highlights ✓
 - [x] Brand/name altered: "Anniston Muzeum of Natrul History"
 - [x] No persons in frame — no race spec needed
+- [x] Model: GPT
+
+
+---
+
+## Session 4 Prompts (2026-05-01) — PENDING
+
+---
+
+### ohatchee-brief-work-session
+
+**File:** `public/images/articles/ohatchee-brief-work-session-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. Small-town municipal meeting room — wooden dais, seven empty chairs, name placards in front of each seat. A single wooden gavel rests on the table. American flag to the right. Overhead fluorescent lighting. The room is empty. No one is present. Photojournalistic grain. Slightly blown-out highlights. No readable text on placards.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] No persons in frame — no race spec needed
+- [x] Model: GPT
+
+---
+
+### piedmont-patrol-statistics-february
+
+**File:** `public/images/articles/piedmont-patrol-stats-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. A white male police officer in his forties in full uniform sits at a desk in a fluorescent-lit office. He is looking directly at the camera. A thick stack of papers sits to his left. A desktop computer monitor is visible behind him, screen off. Expression neutral, professional. Photojournalistic grain. Slightly blown-out highlights. No readable text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] Race spec: white male officer, forties
+- [x] Model: GPT
+
+---
+
+### jsu-yung-gravy-spring-concert
+
+**File:** `public/images/articles/jsu-yung-gravy-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. Empty college arena stage, concert lighting rig assembled overhead with colored wash lights aimed at the stage floor. Folding chairs arranged in rows facing the empty stage. A university banner partially visible at the left edge of the frame. No performer present. Clean, institutional lighting. Photojournalistic grain. Slightly blown-out highlights. No readable text on the banner.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] No persons — no race spec needed
+- [x] Model: GPT
+
+---
+
+### chappy-alpaca-missing
+
+**File:** `public/images/articles/chappy-alpaca-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. A brown huacaya alpaca stands in a grassy field, looking directly at the camera. A suburban Alabama neighborhood — ranch houses, a mailbox, a chain-link fence — is visible in soft focus in the background. The alpaca appears calm. Afternoon light. Photojournalistic grain. Slightly blown-out highlights. No text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] No persons — no race spec needed
+- [x] Model: GPT
+
+---
+
+### oxford-junk-journal-night
+
+**File:** `public/images/articles/oxford-junk-journal-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. A folding table at a civic center covered in paper scraps, scissors, tape dispensers, cut-up cardboard, magazine clippings, and brown paper bag pieces. A white woman in her fifties holds a piece of brown paper up and examines it with mild concentration. Fluorescent ceiling lighting. Other participants visible but out of focus in the background. Photojournalistic grain. Slightly blown-out highlights. No readable text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] Race spec: white woman, fifties
+- [x] Model: GPT
+
+---
+
+### birmingham-southern-coast-guard
+
+**File:** `public/images/articles/birmingham-southern-coast-guard-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. Two United States Coast Guard personnel in uniform — one Black man in his thirties, one white woman in her forties — stand side by side in front of a red-brick Georgian revival college building with white columns and tall arched windows. They are not smiling. Afternoon light. A flagpole with an American flag is visible to the left. The building looks like a college. They look like Coast Guard. Photojournalistic grain. Slightly blown-out highlights. No readable text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] Race spec: Black man, thirties; white woman, forties
+- [x] Model: GPT
+
+---
+
+### ten-commandments-schools-procurement
+
+**File:** `public/images/articles/ten-commandments-procurement-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. A white male school custodian in his fifties, wearing a gray work shirt, holds a laminated sign at arm's length and squints at the text. He is standing in a school hallway with metal lockers visible behind him. The text on the sign is small and not legible from the camera's distance. Fluorescent hallway lighting. Expression concentrated, not amused. Photojournalistic grain. Slightly blown-out highlights. No readable text.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] Race spec: white male custodian, fifties
+- [x] Model: GPT
+
+---
+
+### gulf-of-america-alabama-signage
+
+**File:** `public/images/articles/gulf-of-america-sign-hero.webp`
+**Status:** PENDING
+
+**Image+Headline note:** The visual joke is the painter's tape correction on the road sign. Headline stays straight. Reader sees the tape before reading a word.
+
+**Prompt:**
+> Wire service photograph. A highway road sign along a flat coastal Alabama road. The sign is partially covered with white painter's tape. Beneath the tape, the words "Gulf of Mexico" are partially visible at the edge where the tape doesn't fully cover. Someone has written "Gulf of America" on the tape in black marker — handwriting is legible but not elegant. Blue sky and flat Gulf Coast landscape visible in background. No cars. Photojournalistic grain. Slightly blown-out highlights.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] No persons — no race spec needed
+- [x] Text on sign is part of the joke — include it
+- [x] Model: GPT
+
+---
+
+### weaver-inaugural-farmers-market
+
+**File:** `public/images/articles/weaver-farmers-market-hero.webp`
+**Status:** PENDING
+
+**Image+Headline note:** One table, one vendor, empty parking lot. The scale mismatch between the setup and the civic pride is the visual.
+
+**Prompt:**
+> Wire service photograph. Outdoor scene: a single folding table covered with a modest spread of vegetables — a few tomatoes, a pile of squash, a bunch of green onions. A Black woman in her fifties wearing a sun hat stands behind the table. The surrounding parking lot is mostly empty — three cars visible at a distance, plenty of open asphalt. A hand-painted sign on the table reads something illegible. Morning Alabama sunlight. Photojournalistic grain. Slightly blown-out highlights. No readable text on sign.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] Race spec: Black woman, fifties
+- [x] Model: GPT
+
+---
+
+### larry-cable-guy-opac
+
+**File:** `public/images/articles/larry-cable-guy-opac-hero.webp`
+**Status:** PENDING
+
+**Prompt:**
+> Wire service photograph. Exterior of a modern performing arts center at night, marquee illuminated overhead. Well-dressed couples — a Black couple in their sixties, a white couple in their forties — walk toward the glass entrance doors. The marquee is visible but the performer name is not legible from this angle. The building is brick construction with warm exterior lighting. No visible signage with readable text. Photojournalistic grain. Slightly blown-out highlights.
+
+**Pre-generation checklist:**
+- [x] Wire service photograph
+- [x] Photojournalistic grain
+- [x] Slightly blown-out highlights
+- [x] Race spec: Black couple sixties, white couple forties
+- [x] Marquee not readable — name of performer stays ambiguous
 - [x] Model: GPT
 

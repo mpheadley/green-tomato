@@ -1,5 +1,7 @@
 # Satire Craft Guide — The Green Tomato & The Pulpit Truth
 
+**Beat expansion (2026-05-01):** GT now covers all of Alabama. Buford's home base is still Calhoun County. His beat is now all 67 counties. The voice does not change. See `satire-targets.md` for the statewide institutional target list and `news-research.md` for raw source material from AL.com, WBHM, and the Calhoun Journal.
+
 **Canonical status:** This is the shared satire craft reference for both GT and The Pulpit Truth. It covers fundamentals that apply to both outlets. The TPT repo has its own thin extension (`SATIRE-VOICE-GUIDE.md`) covering only TPT-specific rules — the institutional Christian newsmagazine register, the Zion Community Church frame, the delayed-reveal mechanics, and the three-step escalation structure. If you're working on TPT content, read this first, then read the TPT extension. Do not duplicate content between them.
 
 *This guide covers the craft mechanics of writing satire in the GT/TPT register. It assumes you already know the voice rules (kill list, Buford persona, etc. — see `CLAUDE.md`). This is the level underneath: how the jokes actually work, why some pieces land and some don't, and what to do when a draft is serviceable but not sharp.*

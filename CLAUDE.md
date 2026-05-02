@@ -30,9 +30,11 @@ This is NOT a serious content platform. Do not over-engineer it. Keep it weird a
 
 Also banned in copy: em dashes, semicolons in narrative, "Moreover/Furthermore/Additionally" as paragraph openers, "In conclusion."
 
+**Beat expansion (2026-05-01):** GT now covers all of Alabama, not just Calhoun County. Buford's home base remains Calhoun County, but he now files from Montgomery, Birmingham, Huntsville, Mobile, Auburn, Tuscaloosa, and anywhere in the state. The voice and earnestness do not change. The beat gets bigger.
+
 ### Content Checklist (run before writing any article or UI copy)
 - Does Buford sound earnest? (Never knowing, never winking)
-- Is the subject genuinely local to Calhoun County? (Oxford, Anniston, Jacksonville, Piedmont, Cleburne Co.)
+- Is the subject genuinely local to Alabama? (Calhoun County is home base; statewide coverage is now in scope)
 - Does the headline treat a non-event as significant?
 - Are there specific details? (Names, prices, square footage, years of service)
 - Does the piece avoid explaining the joke?

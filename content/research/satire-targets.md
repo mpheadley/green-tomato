@@ -1,7 +1,67 @@
 # GT Satire Targets — People & Institutions Matt Knows
 
-*Last updated: 2026-04-30*
+*Last updated: 2026-05-01*
 *Rule: Real institutions can be named. Real individuals always get fictional names. Affectionate roast ≠ attack — the pieces should read as admiration in deadpan clothing.*
+
+**Beat expansion (2026-05-01):** GT now covers all of Alabama. Calhoun County remains home base. Statewide institutional targets added below.
+
+---
+
+## Statewide Institutional Targets (added 2026-05-01)
+
+These require no personal relationship. They are public institutions with infinite recurring material.
+
+### ALDOT (Alabama Department of Transportation)
+Every road project in the state has a press release, a completion estimate, and a follow-up press release revising the estimate. Buford covers all of it. The completion estimate is the joke. The road is never done. Buford does not note this.
+
+### Governor Kay Ivey's Office
+Issues statements. Frequently. Buford covers each statement as a significant development. The statement confirms what was expected. The statement is appreciated. Buford notes that the governor was unavailable for further comment, then quotes the statement again.
+
+### AHSAA (Alabama High School Athletic Association)
+Releases rankings, brackets, and rulings on a weekly basis during sports seasons. Each release is covered with the gravity of a federal ruling. The rankings have changed. Buford reports the change. He does not speculate on causes.
+
+### Alabama Power
+Already a Calhoun County institutional presence — now statewide. Rate increases, coal ash, tree trimming programs, and Community Caring grant announcements. Buford covers all of it without editorial comment. Alabama Power was present. Alabama Power declined further comment. Alabama Power appreciates your patience.
+
+### ALEA (Alabama Law Enforcement Agency)
+Issues weekly most-wanted lists, monthly crime statistics, and press releases about grants for law enforcement equipment. Buford treats each as a primary source document.
+
+### Ten Commandments in Schools (SB99 — signed 2026)
+The logistics story: who is printing the displays, what size, what font, what translation, whether the commandments must be numbered. State Department of Education sources were not immediately available. Buford will follow up.
+
+### Gulf of America (formerly Gulf of Mexico)
+The renaming has implications for coastal Alabama signage, tourism materials, and Buford's datelines. Buford updates his style guide. He files from Gulf Shores. He uses the new name. He does not comment on the change.
+
+### World Championship Domino Tournament — Andalusia, AL
+Annual. Buford covers the bracket with the gravity of the Masters. Defending champions have been identified. The table assignments have been posted. Andalusia is ready.
+
+### Bama Rush (University of Alabama — annual August)
+National media event that Buford treats as a local civic development. Recruitment weekend proceeds as scheduled. Outfits were observed. The university issued no statement. Buford notes that 75 chapters participated. This is consistent with prior years.
+
+### Iron Bowl (Alabama vs. Auburn — annual November)
+Buford files pre-game analysis. He notes the historical record. He does not predict a winner. He notes that both teams have buses.
+
+### Saban Field at Bryant-Denny Stadium
+Nick Saban's name is now on the stadium. Buford covers the naming with appropriate reverence. The field was previously unnamed in this way. It is now named. Buford attended the dedication. He noted the turf.
+
+### Birmingham-Southern College / U.S. Coast Guard (Birmingham)
+**Background:** Birmingham-Southern College, founded 1856, closed May 2024 after 168 years. Approximately 1,200 students transferred mid-degree. The college failed to secure $30M in federal COVID relief funds it was counting on. The U.S. Coast Guard subsequently acquired the 192-acre campus in Birmingham's Glenwood neighborhood. The Coast Guard justified the acquisition by noting its jurisdiction "extends to inland waterways." The Black Warrior River passes through Birmingham. It is navigable.
+
+**The joke:** A liberal arts college chapel, gymnasium, sailing team infrastructure, and residence halls is now a federal maritime law enforcement facility, 350 miles from the nearest coast. The Coast Guard noted this is fine. Buford does not question it.
+
+**Do not do:** A piece about the closure itself — that's genuinely sad, and satire punches up at institutions, not at 1,200 students who lost their college. The satirizable element is the *Coast Guard acquisition*, not the closure.
+
+**Arc — 4 pieces:**
+
+1. **Acquisition announcement** (written — `birmingham-southern-coast-guard.mdx`) — Coast Guard assumes control, opportunities cited, chapel still standing.
+
+2. **The sailing team** — BSC had an active sailing team. What happened to the boats, the trophies, the coach, the recruiting pipeline? Buford investigates. The Coast Guard declined to comment on the sailing program's status. A former team member, reached by phone, said the boats were "somewhere." The Black Warrior River is still there.
+
+3. **The chapel** — The BSC chapel, a landmark Gothic revival building on the campus, is now on a federal installation. Buford covers the first worship service held under Coast Guard jurisdiction. Attendance was described as "modest." The chaplain's rank has not been announced. The organ still works.
+
+4. **Black Warrior River maritime patrol** — Buford files a breaking dispatch from the banks of the Black Warrior River, now under active federal maritime protection. He notes the river's depth (navigable, per the Corps of Engineers), its commercial traffic (barges, occasional pleasure craft), and the Coast Guard's expanded presence in the Birmingham metro. This is a significant development for inland Alabama. Buford is on the scene.
+
+**Recurring character potential:** The Coast Guard spokesperson who "did not specify what the opportunities were" can recur across all four pieces, each time declining to specify something different.
 
 ---
 

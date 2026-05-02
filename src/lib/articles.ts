@@ -59,6 +59,15 @@ export function getAllArticles(): Article[] {
     );
 }
 
+export function getAdjacentArticles(slug: string): { prev: Article | null; next: Article | null } {
+  const all = getAllArticles();
+  const idx = all.findIndex((a) => a.slug === slug);
+  return {
+    prev: idx < all.length - 1 ? all[idx + 1] : null,
+    next: idx > 0 ? all[idx - 1] : null,
+  };
+}
+
 export function getAllTags(): string[] {
   const tags = new Set(getAllArticles().flatMap((a) => a.frontmatter.tags ?? []));
   return Array.from(tags).sort();

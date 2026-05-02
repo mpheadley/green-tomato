@@ -1,9 +1,12 @@
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
-import { getAllArticles, getArticleBySlug, getRelatedArticles } from "@/lib/articles";
+import { getAllArticles, getArticleBySlug, getRelatedArticles, getAdjacentArticles } from "@/lib/articles";
 import { Link } from "next-view-transitions";
 import ArticleImage from "@/app/components/ArticleImage";
 import AdSlot from "@/app/components/AdSlot";
+import FloatingShareBar from "@/app/components/FloatingShareBar";
+import PrevNextEdgeArrows from "@/app/components/PrevNextEdgeArrows";
+import NextUpPopup from "@/app/components/NextUpPopup";
 
 const mdxComponents = { ArticleImage };
 
@@ -27,9 +30,13 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
   if (!article || !article.frontmatter.published) notFound();
 
   const related = getRelatedArticles(slug);
+  const { prev, next } = getAdjacentArticles(slug);
 
   return (
     <>
+      <PrevNextEdgeArrows prev={prev} next={next} />
+      <FloatingShareBar slug={slug} title={article.frontmatter.title} />
+      {next && <NextUpPopup next={next} />}
       <p style={{ fontSize: "0.78rem", marginBottom: 4 }}>
         <Link href="/">Home</Link> &raquo; <Link href="/articles">News</Link> &raquo; <i>{article.frontmatter.title}</i>
       </p>
@@ -54,6 +61,7 @@ export default async function ArticlePage({ params }: { params: Promise<{ slug: 
       <article className="gt-article-body">
         <MDXRemote source={article.content} components={mdxComponents} />
       </article>
+      <div id="share-bar-sentinel" aria-hidden="true" />
 
       <AdSlot slotKey={`article-bottom-${slug}`} count={2} />
 
